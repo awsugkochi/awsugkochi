@@ -30,4 +30,4 @@ Congratulations to all winners and a thumbs up to all participants  !!
 
 ### Photos
 
-Visit our [Photo Gallery link](https://photos.app.goo.gl/AxYBDdxCNaXm7uQ58)
+Visit our [Photo Gallery](https://photos.app.goo.gl/AxYBDdxCNaXm7uQ58)
