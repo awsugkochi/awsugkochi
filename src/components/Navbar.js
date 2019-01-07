@@ -35,7 +35,7 @@ const Navbar = class extends React.Component {
     <div className="container">
       <div className="navbar-brand">
         <Link to="/" className="navbar-item" title="Logo">
-          <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
+          <img src={logo} alt="awsugkochi" style={{ width: '200px' }} />
         </Link>
         {/* Hamburger menu */}
         <div className="navbar-burger burger" data-target="navMenu">
@@ -49,20 +49,22 @@ const Navbar = class extends React.Component {
         <Link className="navbar-item" to="/about">
           About
         </Link>
-        <Link className="navbar-item" to="/products">
+
+        <a
+          className="navbar-item"
+          href="https://www.meetup.com/awsugkochi/"
+          target="_blank"
+          >Meetup Page</a>
+
+        <Link className="navbar-item" to="/Leaders">
           Products
         </Link>
-        <Link className="navbar-item" to="/contact">
-          Contact
-        </Link>
-        <Link className="navbar-item" to="/contact/examples">
-          Form Examples
-        </Link>
+
       </div>
       <div className="navbar-end has-text-centered">
         <a
           className="navbar-item"
-          href="https://github.com/AustinGreen/gatsby-netlify-cms-boilerplate"
+          href="https://github.com/dijeesh/awsugkochi"
           target="_blank"
           rel="noopener noreferrer"
         >
