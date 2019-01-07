@@ -11,7 +11,7 @@ tags:
   -
 ---
 
-![hackethon](/img/awsugkochi-hackethon-19.png
+![hackethon cover](/img/awsugkochi-hackethon-19.png)
 
 AWS Hackathon for Good organized by AWS User Group Kochi in partnership with IBS Software and Intuit has concluded and the winners are announced.
 
