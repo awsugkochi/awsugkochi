@@ -21,6 +21,13 @@ The first prize goes to `Amal Das NP` and `Akhil Rajan` who created an applicati
 
 Students and Developer community members from all over Kerala participated in the event to make it a big success.
 
-### winners
+### Winners
 
 ![winners](/img/awsugkochi_hackethon-19-winners.jpg)
+
+Congratulations to all winners and a thumbs up to all participants  !!
+
+
+### Photos
+
+Visit our [Photo Gallery link](https://photos.app.goo.gl/AxYBDdxCNaXm7uQ58)
