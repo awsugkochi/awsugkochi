@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
 import logo from '../img/awsugkochi-logo.png'
-import CustomStyle from './custom.css'
+import navbar-item from './custom.css'
 
 const Navbar = () => (
   <nav className="navbar is-transparent">
