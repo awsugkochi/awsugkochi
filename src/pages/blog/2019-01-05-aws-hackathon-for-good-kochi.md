@@ -8,7 +8,7 @@ tags:
   - awsugkochi
   - ibscorporate
   - intuit
-  -
+  - hackathon
 ---
 
 ![hackathon cover](/img/awsugkochi-hackathon-19.png)
