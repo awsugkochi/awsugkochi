@@ -45,6 +45,7 @@ Visit our [Photo Gallery](https://photos.app.goo.gl/AxYBDdxCNaXm7uQ58)
   - [Runcy Oommen](https://www.linkedin.com/in/runcyoommen/)
   - [Bhuvaneswari Subramani](https://www.linkedin.com/in/bhuvanas/)
   - [Sarika Jeevan](https://www.linkedin.com/in/sarika-jeevan-9ab7b65/)
+  - [John Sarai](https://www.linkedin.com/in/john-sarai-6926156b/)
   - [Dijeesh Padinharethil](https://www.linkedin.com/in/dijeesh-padinharethil/)
 
 ### Sponsors
