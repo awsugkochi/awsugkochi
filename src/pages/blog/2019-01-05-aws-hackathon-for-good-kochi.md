@@ -25,7 +25,7 @@ Students and Developer community members from all over Kerala participated in th
 
 ![winners](/img/awsugkochi_hackathon-19-winners.jpg)
 
-Congratulations to all winners and a :thumbsup: to all participants  !!
+Congratulations to all winners and a thumbsup to all participants  !!
 
 ### Quiz Competition
 
@@ -35,7 +35,7 @@ AWS User Group Community leaders conducted a quiz competition during the fun bre
 
 ### Photos
 
-Visit our [Photo Gallery](https://photos.app.goo.gl/AxYBDdxCNaXm7uQ58
+Visit our [Photo Gallery](https://photos.app.goo.gl/AxYBDdxCNaXm7uQ58)
 
 ### Team behind the event.
 
@@ -53,4 +53,4 @@ Visit our [Photo Gallery](https://photos.app.goo.gl/AxYBDdxCNaXm7uQ58
   - [Intuit](https://www.intuit.com/)
 
 
-Happy Coding :neckbeard:
+Happy Coding !!
