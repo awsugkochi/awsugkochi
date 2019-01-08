@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: AWS Hackethon for Good 2019
 date: 2019-01-05T15:04:10.000Z
-description: AWS Hackethon for Good - 2019.
+description: Jan 05, 2019 - AWS Hackethon for Good - 2019.
 tags:
   - aws
   - awsugkochi
