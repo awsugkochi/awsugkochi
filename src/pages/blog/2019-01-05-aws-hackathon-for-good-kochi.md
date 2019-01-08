@@ -47,7 +47,7 @@ Visit our [Photo Gallery](https://photos.app.goo.gl/AxYBDdxCNaXm7uQ58)
   - [Sarika Jeevan](https://www.linkedin.com/in/sarika-jeevan-9ab7b65/)
   - [Dijeesh Padinharethil](https://www.linkedin.com/in/dijeesh-padinharethil/)
 
-### Sponsers
+### Sponsors
 
   - [IBS Software](https://www.ibsplc.com/)
   - [Intuit](https://www.intuit.com/)
