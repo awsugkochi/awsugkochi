@@ -30,7 +30,7 @@ const Navbar = () => (
           target="_blank"
         >
           <span className="icon">
-            <img src={github} alt="Github" style={{ width: '150px' }} />
+            <img src={github} alt="Github" />
           </span>
         </a>
       </div>
