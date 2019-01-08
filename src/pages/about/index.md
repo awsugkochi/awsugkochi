@@ -28,15 +28,15 @@ All skills levels including students who would like to learn about AWS are welco
 
 ### Community leaders
 
-- [Abhilash Nair](https://www.linkedin.com/in/hiabhilash/)
+- [Abhilash Nair](https://www.linkedin.com/in/hiabhilash/) -
   MD & CEO at SupportSages Consultancy Services
 
-- [Shaji K ](https://www.linkedin.com/in/shaji-k-a7b14a19/)
+- [Shaji K ](https://www.linkedin.com/in/shaji-k-a7b14a19/) -
   Technical Architect at Marlabs Inc   
 
-- [Dijeesh Padinharethil](https://www.linkedin.com/in/dijeesh-padinharethil/)
+- [Dijeesh Padinharethil](https://www.linkedin.com/in/dijeesh-padinharethil/) -
   Lead Operations Engineer at Network Redux LLC
-  
+
 
 ### Contact us
 
