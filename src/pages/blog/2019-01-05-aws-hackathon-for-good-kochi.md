@@ -51,6 +51,7 @@ Visit our [Photo Gallery](https://photos.app.goo.gl/AxYBDdxCNaXm7uQ58)
 
   - [IBS Software](https://www.ibsplc.com/)
   - [Intuit](https://www.intuit.com/)
+  - [Amazon Web Services](https://aws.amazon.com/developer/community/usergroups/asia-pacific/)
 
 
 Happy Coding !!
