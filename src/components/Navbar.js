@@ -9,7 +9,7 @@ const Navbar = () => (
       <div className="navbar-brand">
         <Link to="/" className="navbar-item">
           <figure className="image">
-            <img src={logo} alt="awsugkochi" style={{ height: '150px' , width: '50px'  }} />
+            <img src={logo} alt="awsugkochi" style={{ height: '100px' , width: '50px'  }} />
           </figure>
         </Link>
       </div>
