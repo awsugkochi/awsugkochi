@@ -40,4 +40,4 @@ All skills levels including students who would like to learn about AWS are welco
 
 ### Contact us
 
-Drop a mail to info@awsugkochi.in
+Drop a mail to mailto:info@awsugkochi.in
