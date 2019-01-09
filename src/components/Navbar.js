@@ -21,7 +21,7 @@ const Navbar = () => (
           className="navbar-item"
           href="https://meetup.com/awsugkochi/"
           target="_blank"
-          >Meetup Page</a>
+          >Join</a>
       </div>
       <div className="navbar-end">
         <a
