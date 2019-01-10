@@ -17,7 +17,7 @@ awsugkochi - `AWS User Group Kochi` is a group of passionate [Amazon Web Service
 All skills levels including students who would like to learn about AWS are welcome to help accomplish our motto of learning, sharing and networking. Let’s join hands to empower this tech community to make it bigger and better!
 
 
-### Join us
+### Conect
 
 - [Meetup](https://www.meetup.com/awsugkochi/)
 
@@ -26,7 +26,7 @@ All skills levels including students who would like to learn about AWS are welco
 - [Linkedin](https://www.linkedin.com/groups/10414503/)
 
 
-### Community leaders
+### Leaders
 
 - [Abhilash Nair](https://www.linkedin.com/in/hiabhilash/) -
   MD & CEO at SupportSages Consultancy Services
@@ -38,7 +38,7 @@ All skills levels including students who would like to learn about AWS are welco
   Lead Operations Engineer at Network Redux LLC
 
 
-### Contact us
+### Contact 
 
 Drop a mail to mailto:info@awsugkochi.in
 
