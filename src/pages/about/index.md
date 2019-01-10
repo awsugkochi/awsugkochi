@@ -17,7 +17,7 @@ awsugkochi - `AWS User Group Kochi` is a group of passionate [Amazon Web Service
 All skills levels including students who would like to learn about AWS are welcome to help accomplish our motto of learning, sharing and networking. Let’s join hands to empower this tech community to make it bigger and better!
 
 
-### Conect
+### Connect
 
 - [Meetup](https://www.meetup.com/awsugkochi/)
 
@@ -38,7 +38,7 @@ All skills levels including students who would like to learn about AWS are welco
   Lead Operations Engineer at Network Redux LLC
 
 
-### Contact 
+### Contact
 
 Drop a mail to mailto:info@awsugkochi.in
 
