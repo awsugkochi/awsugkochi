@@ -16,7 +16,7 @@ Introduction to Amazon EKS was conducted by [Dijeesh Padinharethil](https://www.
 
 <br><br>
 
-![sep2018](/img/awsugkochi-meetup-sep-2018-eks.jpg)
+![sep2018](/img/awsugkochi-meetup-sep-2018-eks.jpeg)
 
 <br><br>
 Amazon Elastic Container Service for Kubernetes (Amazon EKS) makes it easy to deploy, manage, and scale containerized applications using Kubernetes on AWS.
@@ -31,22 +31,23 @@ During the session, Dijeesh walked us through
  - Docker and containerization
  - Kubernetes and its concepts
  - Kubernetes in AWS
-    - Kubernetes in AWS using KOPS
+ - Kubernetes in AWS using KOPS
  - EKS
-    - Setting EKS in Kubernetes
-    - Sample EKS Platform Architecture in AWS
-    - Introduction to EKS platform management ( Dashboard, Monitoring, Logging, Deployments)
+ - Setting EKS in Kubernetes
+ - Sample EKS Platform Architecture in AWS
+ - Introduction to EKS platform management ( Dashboard, Monitoring, Logging, Deployments)
 <br><br>
 
-![sep2018-2](/img/awsugkochi-meetup-sep-18-details.jpeg)
+![sep2018-2](/img/awsugkochi-meetup-sep-18-details.jpg)
 
 <br><br>
 
-`Talk with Dijeesh`: Drop a mail to mailto:dijeeshpnair@gmail.com 
+`Talk with Dijeesh`: drop a mail to mailto:dijeeshpnair@gmail.com 
 
 <br><br>
-Thanks to all the attendees... Stay tuned for further meetups.
- <br><br>
+Thanks to all the attendees.
+
+<br><br>
 Stay tuned for upcoming meetups! 
 
 
