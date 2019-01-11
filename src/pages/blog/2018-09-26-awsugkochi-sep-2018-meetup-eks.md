@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Meetup - September 2018  - Kubernetes in AWS - EKS
-date: 2019-01-05T15:04:10.000Z
+date: 2018-09-26T15:04:10.000Z
 description: September 2018 - Meetup Update - Kubernetes in AWS - EKS
 tags:
   - aws
