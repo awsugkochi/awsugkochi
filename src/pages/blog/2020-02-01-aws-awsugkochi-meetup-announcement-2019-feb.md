@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Meetup Announcement - February 2019 - Serverless Computing, An Introduction
-date: 2019-01-05T15:04:10.000Z
+date: 2019-02-11T15:04:10.000Z
 description: Meetup Announcement - February 2019 - Serverless Computing, An Introduction
 tags:
   - aws
