@@ -21,10 +21,16 @@ Our February 2019 meetup has been announced and this time we will be having a se
 
 ## Agenda
 
-|Session | Topic | Speaker |
-| ------ | ------ |------ |
-|Session 1  | Serverless Computing, An Introduction   | [Kannan KR](https://www.linkedin.com/in/krkannan1729/) |
 
+#### Session 1 Serverless Computing, An Introduction by [Kannan KR](https://www.linkedin.com/in/krkannan1729/) 
+
+Kannan KR, is an AWS Solution Architect, Data engineer, Serverless Computing technology practitioner and an Alexa enthusiast. Kannan will walk us through:
+
+- Serverless Computing, an introduction.
+- Lambda - the core service
+- Serverless Web Hosting
+- ServerLess batch processing
+- Security and Auth
 
 
 ## Date
