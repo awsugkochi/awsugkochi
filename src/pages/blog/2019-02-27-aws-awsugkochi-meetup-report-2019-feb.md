@@ -71,4 +71,4 @@ Stay tuned for upcoming meetups!
 
 **Interested in React & GraphQL using AWS Amplify & AppSync  ?**
 
-AWS User Group Banglore has announced a [Special Meetup with Gabe Hollombe](https://www.awsugblr.in/blog/2019-02-27-special-meetup-with-gabe-hollombe/), Technical Evangelist at Amazon Web Services. He will be doing a live demo on the topic. **Build your own multi-tenant photo album web app with React & GraphQL using AWS Amplify & AppSync**
+AWS User Group Banglore has announced a [Special Meetup with Gabe Hollombe](https://www.awsugblr.in/blog/2019-02-27-special-meetup-with-gabe-hollombe/), **Technical Evangelist at Amazon Web Services**. He will be doing a live demo on the topic. **Build your own multi-tenant photo album web app with React & GraphQL using AWS Amplify & AppSync**
