@@ -25,7 +25,9 @@ By running serverless architecture, developers can concentrate on business logic
 
 - The speaker has gone through all major components of a modern application and what all are the AWS Services suitable for each layer of the application architecture. 
 
-- Lambda is the heart of serverless architecture in AWS. He has gone through lambda basics, triggers, actions and how to monitor the logs and metrics of functions. 
+- Summarised about State-less and state-full applications.
+
+- Lambda is the heart of serverless architecture in AWS. He has gone through lambda basics, triggers, actions and how to monitor the logs and metrics of lambda functions. 
 
 - He has also gone through different use cases of lambda.
 
