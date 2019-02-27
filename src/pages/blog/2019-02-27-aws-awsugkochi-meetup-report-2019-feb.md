@@ -12,7 +12,7 @@ tags:
 
 
 
-Meetup Session started with a `self introduction by all attendees and a warm welcome by [Dijeesh Padinharethil](https://www.linkedin.com/in/dijeesh-padinharethil), AWS User Group Kochi Lead and introduced our speaker of the day [Kannan KR](https://www.linkedin.com/in/krkannan1729/)
+Meetup Session started with a self introduction by all attendees and a warm welcome by [Dijeesh Padinharethil](https://www.linkedin.com/in/dijeesh-padinharethil), AWS User Group Kochi Lead and introduced our speaker of the day [Kannan KR](https://www.linkedin.com/in/krkannan1729/)
 
 <br>
 
