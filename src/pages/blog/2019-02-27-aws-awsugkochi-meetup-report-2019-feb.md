@@ -11,12 +11,13 @@ tags:
 ---
 
 
-Summary of February 2019 Meetup: Serverless Computing, An Introduction
 
 Meetup Session started with a `self introduction by all attendees and a warm welcome by [Dijeesh Padinharethil](https://www.linkedin.com/in/dijeesh-padinharethil), AWS User Group Kochi Lead and introduced our speaker of the day [Kannan KR](https://www.linkedin.com/in/krkannan1729/)
 
 <br>
-![febmeetupreport1](/img/awsugkochi-meetup-feb-2019-01.jpg)
+
+![febmeetupreport1](/img/awsugkochi-meetup-feb-2019-01.jpg) 
+
 <br><br>
 The talk started with sharing everyone experience in using AWS Lambda Serverless services and the speaker shared his own personal experience in managing legacy systems, issues faced and the move towards serverless architecture.
 
@@ -34,7 +35,9 @@ By running serverless architecture, developers can concentrate on business logic
 - All the topics were followed with a real case example and all the attendees who had experience with services shared their comments too. 
 
 <br>
+
 ![febmeetupreport2](/img/awsugkochi-meetup-feb-2019-02.jpg)
+
 <br><br>
 
 The event concluded by a Thank You note by [Abhilash Nair](https://www.linkedin.com/in/hiabhilash/) , AWS User Group Kochi Lead. And an announcement about plans for conducting first ever AWS Community day in Kochi
