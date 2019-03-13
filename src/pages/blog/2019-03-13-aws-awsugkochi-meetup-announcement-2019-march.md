@@ -22,22 +22,22 @@ Our March 2019 meetup has been announced and this time we will be having a sessi
 ## Agenda
 
 
-### Session 1 Get Started with Amazon Alexa Skills Kit by [Cicil Thomas](https://www.linkedin.com/in/cicilthomas) 
+### Session 1 - Get Started with Amazon Alexa Skills Kit by [Cicil Thomas](https://www.linkedin.com/in/cicilthomas) 
 
 Cicil Thomas an enthusiastic Alexa developer and one of the Alexa community influencer of 2018. Cicil is currently working as a Associate Software Engineer at [CTS](https://www.cognizant.com/). Cicil will walk us through Alexa Skill Kit. We are planning for a live coding session this time. 
 
 
 <br>
- 
-### Topic
+
+#### Topic
 
 Get Started with Amazon Alexa Skills Kit
 
-### Level
+#### Level
 
 Beginner and Intermediate
 
-### Requirements
+#### Requirements
 
 Basic AWS Knowledge, Lambda , NodeJs. Bring laptops and internet connections (mobile hotspots)
 
@@ -63,4 +63,5 @@ Please head over to [Google Form](https://goo.gl/forms/7JlCeu8nxCiKkdMI2) to RSV
 
 <br>
 ## Join the community
+
 Join the AWSUGKOCHI community - you can find us on our [About](https://awsugkochi.in/about) page
