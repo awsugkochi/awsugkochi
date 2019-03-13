@@ -58,4 +58,7 @@ Please head over to [Google Form](https://goo.gl/forms/7JlCeu8nxCiKkdMI2) to RSV
 
 ## Join the community
 
-Join the AWSUGKOCHI community - you can find us on our [About](https://awsugkochi.in/about) pag
+Join the AWSUGKOCHI community - you can find us on our [About](https://awsugkochi.in/about) page
+
+<br> <br>
+Help us to grow this community, please share this page to your colleagues and friends :heart:
