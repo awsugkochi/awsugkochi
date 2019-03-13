@@ -29,11 +29,20 @@ Cicil Thomas an enthusiastic Alexa developer and one of the Alexa community infl
 
 <br>
 
-| Details |  |
-| ------ | ------ |
-| Topic | Get Started with Amazon Alexa Skills Kit |
-| Level | Beginner and intermediate |
-| Requirements | Basic AWS Knowledge, Lambda , NodeJs. Bring laptops and internet connections (mobile hotspots) |
+#### Details
+
+
+##### Topic 
+
+Get Started with Amazon Alexa Skills Kit 
+
+##### Level 
+
+Beginner and intermediate 
+
+##### Requirements 
+
+Basic AWS Knowledge, Lambda , NodeJs. Bring laptops and internet connections (mobile hotspots) |
 
 <br>
 
