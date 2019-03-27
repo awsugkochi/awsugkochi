@@ -11,19 +11,20 @@ tags:
   - amazon
   - usergroups
 ---
+<br>
+Alexa is a cloud-based voice service powered by AWS. Behind the scenes, code running in the cloud hears, understands, and processes your spoken requests. This time, our topic was `Get Started with Amazon Alexa Skills Kit`
 
-Meetup Session started with a self-introduction by all attendees.  AWS User Group Kochi Lead introduced our speaker of the day [Cicil Thomas](https://www.linkedin.com/in/cicilthomas).
+<br>
+
+Meetup Session started with a self-introduction by all attendees. Then, AWS User Group Kochi Lead introduced our speaker of the day [Cicil Thomas](https://www.linkedin.com/in/cicilthomas).
+
 <br>
 
 ![marchmeetupreport1](/img/awsugkochi_meetup_march_19_00.jpg) 
 
+<br> 
 
-<br> <br> 
-Alexa is a cloud-based voice service powered by AWS.  Behind the scenes, code running in the cloud hears, understands, and processes your spoken requests.
-
-<br> <br> 
-
-Cicil Thomas an enthusiastic Alexa developer and one of the Alexa community influencer of 2018. Cicil is currently working as an Associate Software Engineer at  [CTS](https://www.cognizant.com/)
+Cicil Thomas is an enthusiastic Alexa developer and one of the Alexa community influencer of 2018. Cicil is currently working as an Associate Software Engineer at  [CTS](https://www.cognizant.com/)
 
 Cicil has walked us through,
 
