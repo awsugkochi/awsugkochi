@@ -12,6 +12,7 @@ tags:
   - usergroups
 ---
 <br>
+
 Alexa is a cloud-based voice service powered by AWS. Behind the scenes, code running in the cloud hears, understands, and processes your spoken requests. This time, our topic was `Get Started with Amazon Alexa Skills Kit`
 
 <br>
