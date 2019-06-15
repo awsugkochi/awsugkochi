@@ -29,7 +29,6 @@ Our June 2019 meetup has been announced and this time we will be having a sessio
 Chakravarthy Nagarajan is a Solution Architect - EC2 Spot Specialist at Amazon Internet Services Private Limited (AWS). He will walk us through the basics, pricing models,best practices, orchastration options, ASG integrations and demonstrations of Amazon EC2 Spot Instances.
 
 
-
 <br>
 
 #### Details
