@@ -159,7 +159,7 @@ Thank you.
 
 <br> <br>
 
-# AWS Comunity Day Annoucements
+# AWS Community Day Annoucements
 
 <br>
 
