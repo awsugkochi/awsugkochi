@@ -149,6 +149,11 @@ Once again on behalft of AWS User Group Kochi. We would like to thank,
 
 2. [IBS Software Services](https://www.ibsplc.com/) for providing venue and refreshments.
 
+3. All the attendees for joining with us on this weekend.
+
+
+Thank you.
+ 
 <br>
 
 
