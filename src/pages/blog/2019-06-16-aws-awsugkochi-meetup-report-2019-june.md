@@ -142,7 +142,7 @@ The event concluded by a Thank You note by [Abhilash Nair](https://www.linkedin.
 
 
 
-Once again on behave of AWS User Group Kochi. We would like to thank,
+Once again on behalf of AWS User Group Kochi. We would like to thank,
 
 
 1. [Sridhar Bharadwaj](https://www.linkedin.com/in/sridhar-bharadwaj) and [Chakravarthy Nagarajan](https://www.linkedin.com/in/chakravarthy-nagarajan-7653311a/) for coming down to Kochi and sharing knowledge to our community members.
