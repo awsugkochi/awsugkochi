@@ -68,17 +68,21 @@ Chakra walked us through
 
 ## Notes 
 
+<br>
 
 #### Spot Instances
 
 Amazon EC2 Spot Instances let you take advantage of unused EC2 capacity in the AWS cloud. Spot Instances are available at up to a 90% discount compared to On-Demand prices. You can use Spot Instances for various stateless, fault-tolerant, or flexible applications such as big data, containerized workloads, CI/CD, web servers, high-performance computing (HPC), and other test & development workloads.
 
+<br>
 
 #### Spot Instances - Pricing
 
 With Spot instances, You pay the Spot price that's in effect for the time period your instances are running. Spot instance prices are set by Amazon EC2 and adjust gradually based on long-term trends in supply and demand for Spot instance capacity.
 
 Spot instances are available at a discount of up to 90% off compared to On-Demand pricing. To compare the current Spot prices against standard On-Demand rates, visit the Spot Instance Advisor.
+
+<br>
 
 #### Best Practices
 
@@ -97,13 +101,16 @@ Test your application on different instance types when possible. Because prices 
 
 EC2 Fleet simplifies the provisioning of EC2 capacity across different instance types, AZs, and across On-Demand, RIs and Spot purchase models. The same functionality is available in Spot Fleet.
 
+<br>
+
 #### Handling interruptions
 
 Spot Instances receive a two-minute notice when these instances are about to be reclaimed by EC2, because EC2 needs the capacity back. Use Cloudwatch Events to get notfification when the Spot instances are interrupted by Amazon EC2. Also review the Spot Instance Advisor for average frequency of interruption for different Spot Pools.
 
 <br>
+<br>
 
-## Tools / Resources
+### Tools / Resources
 
 1. **Spot Instance Advisor** : https://aws.amazon.com/ec2/spot/instance-advisor/
 
@@ -111,7 +118,7 @@ Spot Instances receive a two-minute notice when these instances are about to be 
 
 <br>
 
-## Additional referrences
+### Additional referrences
 
 
 1. **CI/CD Workloads on Spot Instances**  : [Watch Video](https://youtu.be/8gGItacZjps)
@@ -149,12 +156,15 @@ Once again on behalft of AWS User Group Kochi. We would like to thank,
 
 # AWS Comunity Day Annoucements
 
+<br>
+
 1. [Ahmedabad 26th June 2019](https://awsahmedabad.community)
 2. [Bangalore 26th & 27th July 2019](https://communityday.awsugblr.in)
 3. [Chennai 10th August 2019](https://communityday.awsugchn.in)
 
 
 <br> <br>
+
 ## Join the community
 
 Join the AWSUGKOCHI community - you can find us on our [About](https://awsugkochi.in/about) page
