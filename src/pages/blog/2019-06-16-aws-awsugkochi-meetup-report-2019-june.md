@@ -25,8 +25,10 @@ This event was organized by [Amazon User Group Kochi](https://awsugkochi.in) in 
 
 <br> 
 
+This time our topic was `AWS EC2 Spot Instances - Save 90% on your EC2 costs` and the session was taken by [Chakravarthy Nagarajan](https://www.linkedin.com/in/chakravarthy-nagarajan-7653311a/), Solution Architect - EC2 Spot Specialist at Amazon Internet Services Private Limited (AWS)
 
-Amazon EC2 Spot instances offer spare compute capacity availavle in the AWS cloud at steep discounts compared to On-Demand instances. Spot instances enable you to optimize your costs on the AWS cloud and scale your application's throughput up to 10X for the same budget. This time our topic was `AWS EC2 Spot Instances - Save 90% on your EC2 costs` and the session was taken by [Chakravarthy Nagarajan](https://www.linkedin.com/in/chakravarthy-nagarajan-7653311a/), Solution Architect - EC2 Spot Specialist at Amazon Internet Services Private Limited (AWS)
+
+Amazon EC2 Spot instances offer spare compute capacity availavle in the AWS cloud at steep discounts compared to On-Demand instances. Spot instances enable you to optimize your costs on the AWS cloud and scale your application's throughput up to 10X for the same budget. 
 
 
 <br>
@@ -36,7 +38,7 @@ Amazon EC2 Spot instances offer spare compute capacity availavle in the AWS clou
 <br> 
 
 
-Meetup Session started with a self-introduction by all attendees. Then,[Sridhar Bharadwaj](https://www.linkedin.com/in/sridhar-bharadwaj), Business Development Manager - EC2 Spot at Amazon Web Services (AWS) introduced our speaker of the day [Chakravarthy Nagarajan](https://www.linkedin.com/in/chakravarthy-nagarajan-7653311a/).
+Meetup Session started with a self-introduction by all attendees. Then, [Sridhar Bharadwaj](https://www.linkedin.com/in/sridhar-bharadwaj), Business Development Manager - EC2 Spot at Amazon Web Services (AWS) introduced our speaker of the day [Chakravarthy Nagarajan](https://www.linkedin.com/in/chakravarthy-nagarajan-7653311a/).
 
 <br> 
 
@@ -141,12 +143,22 @@ Once again on behalft of AWS User Group Kochi. We would like to thank,
 2. [IBS Software Services](https://www.ibsplc.com/) for providing venue and refreshments.
 
 <br>
-<br>
 
+
+<br> <br>
+
+# AWS Comunity Day Annoucements
+
+1. [Ahmedabad 26th June 2019](https://awsahmedabad.community)
+2. [Bangalore 26th & 27th July 2019](https://communityday.awsugblr.in)
+3. [Chennai 10th August 2019](https://communityday.awsugchn.in)
+
+
+<br> <br>
 ## Join the community
 
 Join the AWSUGKOCHI community - you can find us on our [About](https://awsugkochi.in/about) page
 
-<br> <br>
+<br> 
 
 Help us to grow this community, please share this page to your colleagues and friends - Thank you.
