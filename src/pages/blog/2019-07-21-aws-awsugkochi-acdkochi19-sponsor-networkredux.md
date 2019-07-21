@@ -29,7 +29,7 @@ tags:
 
 <br> 
 
-<h3> Network Redux </h3>
+<h3> [Network Redux](https://www.networkredux.com) </h3>
 
 <br> 
 
@@ -41,6 +41,7 @@ Network Redux prides their success by ensuring unmatched managed services to the
  
  <h3> About AWS Community Day - Kochi </h3>
 
+<br>
 
 AWS Community Days are community-organized cloud education events, featuring technical discussions and demos led by expert AWS users and industry leaders from around the world. AWS community is designed to educate everyone about the AWS platform, architecture best practices and about new innovation. The global AWS ecosystem consists of a range of AWS enthusiasts and advocates who are passionate about helping others build.
 
@@ -49,9 +50,9 @@ AWS User Group Kochi (AWSUGKOCHI) is a Kochi based group united by community-led
 To learn more about AWS Community Day Kochi 2019, please visit the [Community Day website](https://communityday.awsugkochi.in)
 
 
-
-
 <br> <br> <br> <br> 
+
+
 Interesting in sponsoring the event, or exploring the possibility of presenting at our first community day, please contact info@awsugkochi.in.
 
 
