@@ -42,12 +42,15 @@ AWS Community Days are community-organized cloud education events, featuring tec
 
 To learn more about AWS Community Day Kochi 2019, please visit the [Community Day website](https://communityday.awsugkochi.in)
 
+<br> <br> 
 
 It's a great pleasure to have Jayesh as a speaker. Let's find out more about the person
 
 <br> <br> 
 
 <h3> Jayesh Bapu Ahire </h3>
+
+<br>
 
 - Jayesh Bapu Ahire is an organizer of the Pune AWS User Group and Pune Elasticsearch User Group. 
 
@@ -58,6 +61,8 @@ It's a great pleasure to have Jayesh as a speaker. Let's find out more about the
 <br>
 
 <h4> Agenda for talk </h4>
+
+<br>
 
 - Introduction 
 - Why Machine Learning in cloud is the next big thing? 
@@ -73,7 +78,7 @@ It's a great pleasure to have Jayesh as a speaker. Let's find out more about the
 
 
 <br> <br> <br> <br>
-Interesting in sponsoring the event, or exploring the possibility of presenting at our first community day, please contact info@awsugkochi.in.
+Interesting in sponsoring the event, or exploring the possibility of presenting at our first community day, please contact **info@awsugkochi.in**
 
 
 <br> <br>
