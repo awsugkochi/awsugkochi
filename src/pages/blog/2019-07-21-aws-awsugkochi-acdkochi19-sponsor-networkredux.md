@@ -34,7 +34,7 @@ tags:
 <br> 
 
 [Network Redux](https://www.networkredux.com) is a global provider of Managed AWS and Managed Teams, partnering with over 500 clients on a worldwide basis! With its headquarters in Portland, Oregon, Network Redux stood out with their highly skilled and certified DevOps specialists, Developers and System Architects working from North America and the Asia Pacific. 
-
+<br>
 Network Redux prides their success by ensuring unmatched managed services to their major clientele, which even includes Nike, Adobe, Phobs, and Pokemon, by tailoring to their individual needs and catering full-time support braced by a 24/7/365 Global Network Operations Centre in Kochi.
 
 <br> <br>
@@ -44,9 +44,9 @@ Network Redux prides their success by ensuring unmatched managed services to the
 <br>
 
 AWS Community Days are community-organized cloud education events, featuring technical discussions and demos led by expert AWS users and industry leaders from around the world. AWS community is designed to educate everyone about the AWS platform, architecture best practices and about new innovation. The global AWS ecosystem consists of a range of AWS enthusiasts and advocates who are passionate about helping others build.
-
+<br>
 AWS User Group Kochi (AWSUGKOCHI) is a Kochi based group united by community-led learnings and diversified by the wide variety of tools and technologies closely knit with Amazon Web Services, cloud computing technology, AWS design implementation and servicing, high scalability / performance computing, production use cases of AWS, blockchain, Artificial Intelligence and much more.
-
+<br>
 To learn more about AWS Community Day Kochi 2019, please visit the [Community Day website](https://communityday.awsugkochi.in)
 
 
