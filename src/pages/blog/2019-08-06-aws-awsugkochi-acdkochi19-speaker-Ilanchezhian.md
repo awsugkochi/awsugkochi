@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: ACDKOCHI19 - AWS Community Day Kochi 2019 Speaker Announcement - Ilanchezhian Ganesamurthy
-date: 2019-07-23T10:00:10.000Z
+date: 2019-08-06T10:00:10.000Z
 description: ACDKOCHI19 - AWS Community Day Kochi 2019 Speaker Announcement - Ilanchezhian Ganesamurthy
 tags:
   - aws
@@ -72,7 +72,7 @@ It's a great pleasure to have Ilanchezhian as a speaker. Let's find out more abo
 
 - One such instance is, ‘Digital Human’ - Digital Human possesses the intelligence, such that they can see, hear, converse & show gestures. Digital Human enables us to interact with computers in a more natural way, as we converse with fellow humans. They give real ‘human touch’ to technology.
 
-= In this talk, we will give an overview of ‘The Digital Human’ and how we can use AWS Sumerian & Cognitive Services to create it.
+- In this talk, we will give an overview of ‘The Digital Human’ and how we can use AWS Sumerian & Cognitive Services to create it.
 
 
 <br> <br> <br> <br>
