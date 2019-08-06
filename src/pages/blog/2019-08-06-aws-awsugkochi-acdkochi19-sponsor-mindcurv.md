@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: ACDKOCHI19 - AWS Community Day Kochi 2019 Platinum Sponsor Announcement - Network Redux
+title: ACDKOCHI19 - AWS Community Day Kochi 2019 Platinum Sponsor Announcement - Mindcuv
 date: 2019-07-21T10:00:10.000Z
-description: ACDKOCHI19 - AWS Community Day Kochi 2019 Platinum Sponsor Announcement - Network Redux
+description: ACDKOCHI19 - AWS Community Day Kochi 2019 Platinum Sponsor Announcement - Mindcuv
 tags:
   - aws
   - awsugkochi
@@ -13,7 +13,7 @@ tags:
   - communityday
   - devops
   - sponsor
-  - networkredux
+  - mindcurv
   - kochi
   - events
   - developers
@@ -21,21 +21,26 @@ tags:
   - speakers
 ---
 
-[AWS Users Group Kochi](https://awsugkochi.in) (AWSUGKOCHI) is honored to have [Network Redux](https://www.networkredux.com) as our Platinum Sponsor.
+[AWS Users Group Kochi](https://awsugkochi.in) (AWSUGKOCHI) is honored to have [Mindcurv](https://www.mindcurv.com) as our Platinum Sponsor.
 
 <br>
 
-![acdkochi1902](/img/awsugkochi-acdkochi19-sponsor-networkredux.jpg)
+![acdkochi1902](/img/awsugkochi-acdkochi19-sponsor-mindcurv.jpg)
 
 <br> 
 
-<h3> Network Redux </h3>
+<h3> Mindcruv </h3>
 
 <br> 
 
-[Network Redux](https://www.networkredux.com) is a global provider of Managed AWS and Managed Teams, partnering with over 500 clients on a worldwide basis! With its headquarters in Portland, Oregon, Network Redux stood out with their highly skilled and certified DevOps specialists, Developers and System Architects working from North America and the Asia Pacific. 
+A few words from our sponsor :
 
-Network Redux prides their success by ensuring unmatched managed services to their major clientele, which even includes Nike, Adobe, Phobs, and Pokemon, by tailoring to their individual needs and catering full-time support braced by a 24/7/365 Global Network Operations Centre in Kochi.
+<br>
+
+[Mindcurv](https://www.mindcurv.com) creates, manages and evolves advanced digital platforms, cloud infrastructures and IoT experiences. We are a team of over 230 members from 16 nationalities. Our global offices operate as a single, borderless team servicing our customers around the world.
+
+We are able to help our customers by creating the perfect mix of future-ready technology, agile processes, and talented people. Mindcurv has built a collaborative environment and work with the latest technologies. We nurture our member’s career growth and provide a synergistic workplace where our members can share ideas and do great work together. 
+
 
 <br> <br>
  
