@@ -39,6 +39,8 @@ A few words from our sponsor :
 
 <h4> Intuit India</h4>
 
+<div style="text-align: justify">
+
 Intuit India is a subsidiary of [Intuit Inc](https://www.intuit.com). the maker of QuickBooks Online, the world's No.1 online accounting solution for small businesses. Launched in India in 2012, QuickBooks Online has been helping small businesses in the country prosper by making more money, eliminating work and being more confident in financial decisions. Intuit India, the company's first venture in Asia Pacific, commenced operations in 2005 and currently has more than 1,000 employees. Intuit stands on the core principles of customer-driven innovation and powering prosperity through its ecosystem of innovative financial management solutions. Intuit is an employer of choice having appeared on the Great Place to Work Institute and Economic Times 'India's Best Companies to Work For for the past nine years and ranking #1 in 2017 and #2 in 2018 and 2019. In 2018, Intuit India launched its flagship program for startups called [Intuit Circles](https://www.intuitcircles.com). For, more information visit us at [QuickBooks Online India](https://quickbooks.intuit.com/in/) and follow us on [Facebook](https://www.facebook.com/IntuitIndia/).
 
 <br> 
@@ -63,6 +65,8 @@ AWS Community Days are community-organized cloud education events, featuring tec
 AWS User Group Kochi (AWSUGKOCHI) is a Kochi based group united by community-led learnings and diversified by the wide variety of tools and technologies closely knit with Amazon Web Services, cloud computing technology, AWS design implementation and servicing, high scalability / performance computing, production use cases of AWS, blockchain, Artificial Intelligence and much more.
 
 <br>
+
+</div>
 
 To learn more about AWS Community Day Kochi 2019, please visit the [Community Day website](https://communityday.awsugkochi.in)
 
