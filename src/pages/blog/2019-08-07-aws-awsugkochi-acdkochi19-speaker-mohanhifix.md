@@ -40,10 +40,10 @@ tags:
 <br>
 <div style="text-align: justify">
 AWS Community Days are community-organized cloud education events, featuring technical discussions and demos led by expert AWS users and industry leaders from around the world. AWS community is designed to educate everyone about the AWS platform, architecture best practices and about new innovation. The global AWS ecosystem consists of a range of AWS enthusiasts and advocates who are passionate about helping others build.
-
+</div>
 
 To learn more about AWS Community Day Kochi 2019, please visit the [Community Day website](https://communityday.awsugkochi.in)
-</div>
+
 
 <br> <br> 
 
