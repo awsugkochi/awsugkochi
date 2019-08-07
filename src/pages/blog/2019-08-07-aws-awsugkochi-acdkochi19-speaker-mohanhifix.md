@@ -58,7 +58,7 @@ It's a great pleasure to have Mohan Thomas as a speaker. Let's find out more abo
 - Mohan is the Co-Founder and President of Technology at HiFX IT & Media Services Private Limited
 - Mohan is the Chief Operating Officer at Theory Y Technologies.
 - Mohan is passionate in helping organizations leverage the power of cloud 
-- 18 years of experience in software development and consulting and is an ardent supporter of cloud computing since 2010
+- Mohan do have 18 years of experience in software development and consulting and is an ardent supporter of cloud computing since 2010
 
 <br>
 
