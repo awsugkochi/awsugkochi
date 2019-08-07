@@ -47,7 +47,7 @@ Intuit India is a subsidiary of [Intuit Inc](https://www.intuit.com). the maker 
 
 <h4> Intuit Inc</h4>
  
-Intuit’s mission is to Power Prosperity Around the World. Our global products and platforms, including [TurboTax](https://turbotax.intuit.com), [QuickBooks](https://quickbooks.intuit.com), [Mint](https://www.mint.com) and [Turbo](https://turbo.intuit.com), are designed to empower consumers, self-employed, and small businesses to improve their financial lives, finding them more money with the least amount of work, while giving them complete confidence in their actions and decisions. Our innovative ecosystem of financial management solutions serves 46 million customers worldwide, unleashing the power of many for the prosperity of one. Please visit us for the latest news and in-depth information [about Intuit](https://www.intuit.com) and its brands and find us on [Facebook](https://www.facebook.com/intuit/).
+Intuit’s mission is to Power Prosperity Around the World. Our global products and platforms, including [TurboTax](https://turbotax.intuit.com) , [QuickBooks](https://quickbooks.intuit.com) , [Mint](https://www.mint.com) and [Turbo](https://turbo.intuit.com) , are designed to empower consumers, self-employed, and small businesses to improve their financial lives, finding them more money with the least amount of work, while giving them complete confidence in their actions and decisions. Our innovative ecosystem of financial management solutions serves 46 million customers worldwide, unleashing the power of many for the prosperity of one. Please visit us for the latest news and in-depth information [about Intuit](https://www.intuit.com) and its brands and find us on [Facebook](https://www.facebook.com/intuit/) .
 
 
 
