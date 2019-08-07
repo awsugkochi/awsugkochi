@@ -36,13 +36,14 @@ tags:
 A few words from our sponsor :
 
 <br>
-
+<div style="text-align: justify">
 [Mindcurv](https://www.mindcurv.com) creates, manages and evolves advanced digital platforms, cloud infrastructures and IoT experiences. We are a team of over 230 members from 16 nationalities. Our global offices operate as a single, borderless team servicing our customers around the world.
-
+</div>
 <br>
 
+<div style="text-align: justify">
 We are able to help our customers by creating the perfect mix of future-ready technology, agile processes, and talented people. Mindcurv has built a collaborative environment and work with the latest technologies. We nurture our member’s career growth and provide a synergistic workplace where our members can share ideas and do great work together. 
-
+</div>
 
 <br> <br>
  
@@ -50,12 +51,13 @@ We are able to help our customers by creating the perfect mix of future-ready te
 
 <br>
 
+<div style="text-align: justify">
 AWS Community Days are community-organized cloud education events, featuring technical discussions and demos led by expert AWS users and industry leaders from around the world. AWS community is designed to educate everyone about the AWS platform, architecture best practices and about new innovation. The global AWS ecosystem consists of a range of AWS enthusiasts and advocates who are passionate about helping others build.
-
+</div>
 <br>
-
+<div style="text-align: justify">
 AWS User Group Kochi (AWSUGKOCHI) is a Kochi based group united by community-led learnings and diversified by the wide variety of tools and technologies closely knit with Amazon Web Services, cloud computing technology, AWS design implementation and servicing, high scalability / performance computing, production use cases of AWS, blockchain, Artificial Intelligence and much more.
-
+</div>
 <br>
 
 To learn more about AWS Community Day Kochi 2019, please visit the [Community Day website](https://communityday.awsugkochi.in)

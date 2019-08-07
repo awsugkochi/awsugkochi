@@ -61,10 +61,16 @@ Intuit’s mission is to Power Prosperity Around the World. Our global products 
  <h3> About AWS Community Day - Kochi </h3>
 
 <br>
- <div style="text-align: justify">
+
+<div style="text-align: justify">
+
 AWS Community Days are community-organized cloud education events, featuring technical discussions and demos led by expert AWS users and industry leaders from around the world. AWS community is designed to educate everyone about the AWS platform, architecture best practices and about new innovation. The global AWS ecosystem consists of a range of AWS enthusiasts and advocates who are passionate about helping others build.
 
+</div>
+
 <br>
+
+<div style="text-align: justify">
 
 AWS User Group Kochi (AWSUGKOCHI) is a Kochi based group united by community-led learnings and diversified by the wide variety of tools and technologies closely knit with Amazon Web Services, cloud computing technology, AWS design implementation and servicing, high scalability / performance computing, production use cases of AWS, blockchain, Artificial Intelligence and much more.
 
