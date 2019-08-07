@@ -43,13 +43,17 @@ A few words from our sponsor :
 
 Intuit India is a subsidiary of [Intuit Inc](https://www.intuit.com). the maker of QuickBooks Online, the world's No.1 online accounting solution for small businesses. Launched in India in 2012, QuickBooks Online has been helping small businesses in the country prosper by making more money, eliminating work and being more confident in financial decisions. Intuit India, the company's first venture in Asia Pacific, commenced operations in 2005 and currently has more than 1,000 employees. Intuit stands on the core principles of customer-driven innovation and powering prosperity through its ecosystem of innovative financial management solutions. Intuit is an employer of choice having appeared on the Great Place to Work Institute and Economic Times 'India's Best Companies to Work For for the past nine years and ranking #1 in 2017 and #2 in 2018 and 2019. In 2018, Intuit India launched its flagship program for startups called [Intuit Circles](https://www.intuitcircles.com). For, more information visit us at [QuickBooks Online India](https://quickbooks.intuit.com/in/) and follow us on [Facebook](https://www.facebook.com/IntuitIndia/).
 
+</div>
+
 <br> 
 
 <h4> Intuit Inc</h4>
  
-Intuit’s mission is to Power Prosperity Around the World. Our global products and platforms, including [TurboTax](https://turbotax.intuit.com) , [QuickBooks](https://quickbooks.intuit.com) , [Mint](https://www.mint.com) and [Turbo](https://turbo.intuit.com) , are designed to empower consumers, self-employed, and small businesses to improve their financial lives, finding them more money with the least amount of work, while giving them complete confidence in their actions and decisions. Our innovative ecosystem of financial management solutions serves 46 million customers worldwide, unleashing the power of many for the prosperity of one. Please visit us for the latest news and in-depth information [about Intuit](https://www.intuit.com) and its brands and find us on [Facebook](https://www.facebook.com/intuit/) .
+ <div style="text-align: justify">
 
+Intuit’s mission is to Power Prosperity Around the World. Our global products and platforms, including [TurboTax](https://turbotax.intuit.com), [QuickBooks](https://quickbooks.intuit.com), [Mint](https://www.mint.com) and [Turbo](https://turbo.intuit.com), are designed to empower consumers, self-employed, and small businesses to improve their financial lives, finding them more money with the least amount of work, while giving them complete confidence in their actions and decisions. Our innovative ecosystem of financial management solutions serves 46 million customers worldwide, unleashing the power of many for the prosperity of one. Please visit us for the latest news and in-depth information [about Intuit](https://www.intuit.com) and its brands and find us on [Facebook](https://www.facebook.com/intuit/) .
 
+</div>
 
 
 <br> <br>
@@ -57,7 +61,7 @@ Intuit’s mission is to Power Prosperity Around the World. Our global products 
  <h3> About AWS Community Day - Kochi </h3>
 
 <br>
-
+ <div style="text-align: justify">
 AWS Community Days are community-organized cloud education events, featuring technical discussions and demos led by expert AWS users and industry leaders from around the world. AWS community is designed to educate everyone about the AWS platform, architecture best practices and about new innovation. The global AWS ecosystem consists of a range of AWS enthusiasts and advocates who are passionate about helping others build.
 
 <br>
