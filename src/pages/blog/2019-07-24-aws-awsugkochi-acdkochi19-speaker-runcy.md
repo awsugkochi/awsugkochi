@@ -78,6 +78,9 @@ It's a great pleasure to have Runcy as a speaker. Let's find out more about the 
 - Setting up and enabling DNS redirection with Route53
 
 
+<br> <br> <br> <br>
+
+Register your tickets now from : https://communityday.awsugkochi.in
 
 <br> <br> <br> <br>
 Interesting in sponsoring the event, or exploring the possibility of presenting at our first community day, please contact **info@awsugkochi.in**

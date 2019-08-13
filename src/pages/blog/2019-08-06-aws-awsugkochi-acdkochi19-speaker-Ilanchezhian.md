@@ -74,6 +74,9 @@ It's a great pleasure to have Ilanchezhian as a speaker. Let's find out more abo
 
 - In this talk, we will give an overview of ‘The Digital Human’ and how we can use AWS Sumerian & Cognitive Services to create it.
 
+<br> <br> <br> <br>
+
+Register your tickets now from : https://communityday.awsugkochi.in
 
 <br> <br> <br> <br>
 Interesting in sponsoring the event, or exploring the possibility of presenting at our first community day, please contact **info@awsugkochi.in**

@@ -56,6 +56,10 @@ AWS User Group Kochi (AWSUGKOCHI) is a Kochi based group united by community-led
 To learn more about AWS Community Day Kochi 2019, please visit the [Community Day website](https://communityday.awsugkochi.in)
 
 
+<br> <br> <br> <br>
+
+Register your tickets now from : https://communityday.awsugkochi.in
+
 <br> <br> <br> <br> 
 
 

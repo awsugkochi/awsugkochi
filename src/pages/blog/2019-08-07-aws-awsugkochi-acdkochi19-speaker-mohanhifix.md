@@ -69,7 +69,9 @@ It's a great pleasure to have Mohan Thomas as a speaker. Let's find out more abo
 
 - In this talk Mohan will walk us thourgh on how to use the various AWS services to design and develop a next generation data analytics platform on AWS
 
+<br> <br> <br> <br>
 
+Register your tickets now from : https://communityday.awsugkochi.in
 
 <br> <br> <br> <br>
 Interesting in sponsoring the event, or exploring the possibility of presenting at our first community day, please contact **info@awsugkochi.in**

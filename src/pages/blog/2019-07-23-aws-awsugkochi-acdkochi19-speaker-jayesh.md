@@ -75,7 +75,9 @@ It's a great pleasure to have Jayesh as a speaker. Let's find out more about the
 - Amazon Sagemaker Demo 
 - Q&A
 
+<br> <br> <br> <br>
 
+Register your tickets now from : https://communityday.awsugkochi.in
 
 <br> <br> <br> <br>
 Interesting in sponsoring the event, or exploring the possibility of presenting at our first community day, please contact **info@awsugkochi.in**

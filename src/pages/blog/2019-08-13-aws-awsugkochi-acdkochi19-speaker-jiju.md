@@ -80,8 +80,9 @@ Jiju will be walking us through the challanges faced in setting up a corporate W
 - Piwik.JS + API Gateway + Elastic Search for visitor analytics. . 
 
 
+<br> <br> <br> <br>
 
-
+Register your tickets now from : https://communityday.awsugkochi.in
 
 <br> <br> <br> <br>
 Interesting in sponsoring the event, or exploring the possibility of presenting at our first community day, please contact **info@awsugkochi.in**
