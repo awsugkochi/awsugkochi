@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: ACDKOCHI19 - AWS Community Day Kochi 2019 Speaker Announcement - Vijay Khanna 
-date: 2019-08-13T10:10:30.000Z
+date: 2019-08-14T10:10:30.000Z
 description: ACDKOCHI19 - AWS Community Day Kochi 2019 Speaker Announcement -  Vijay Khanna
 tags:
   - aws
