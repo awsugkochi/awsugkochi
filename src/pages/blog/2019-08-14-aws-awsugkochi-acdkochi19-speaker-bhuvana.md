@@ -26,7 +26,7 @@ tags:
 
 ---
 
-[AWS Users Group Kochi](https://awsugkochi.in) (AWSUGKOCHI) is super excited to have [Bhuvaneswari Subramani](https://www.linkedin.com/in/jijutm/) as our speaker.
+[AWS Users Group Kochi](https://awsugkochi.in) (AWSUGKOCHI) is super excited to have [Bhuvaneswari Subramani](https://www.linkedin.com/in/bhuvanas/) as our speaker.
 
 <br>
 
