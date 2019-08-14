@@ -29,7 +29,7 @@ tags:
 
 <br>
 
-![acdkochi1902](/img/aawsugkochi-acdkochi19-speaker-pranesh.png)
+![acdkochi1902](/img/awsugkochi-acdkochi19-speaker-pranesh.png)
 
 
 <br> 
