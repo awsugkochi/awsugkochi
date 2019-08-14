@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: ACDKOCHI19 - AWS Community Day Kochi 2019 Speaker Announcement - Jiju Thomas Mathew 
-date: 2019-08-13T10:10:10.000Z
-description: ACDKOCHI19 - AWS Community Day Kochi 2019 Speaker Announcement -  Jiju Thomas Mathew
+title: ACDKOCHI19 - AWS Community Day Kochi 2019 Speaker Announcement - Vijaya Nirmala Gopal 
+date: 2019-08-14T10:40:10.000Z
+description: ACDKOCHI19 - AWS Community Day Kochi 2019 Speaker Announcement -  Vijaya Nirmala Gopal
 tags:
   - aws
   - awsugkochi
@@ -19,18 +19,17 @@ tags:
   - speakers
   - mindcurv
   - networkredux
-  - ivldsp
-  - serverless
-  - wordpress
-  - jijutm
+  - iam
+  - security
+  - vijayanirmalagopal
 
 ---
 
-[AWS Users Group Kochi](https://awsugkochi.in) (AWSUGKOCHI) is super excited to have [Jiju Thomas Mathew](https://www.linkedin.com/in/jijutm/) as our speaker.
+[AWS Users Group Kochi](https://awsugkochi.in) (AWSUGKOCHI) is super excited to have [Vijaya Nirmala Gopal](https://www.linkedin.com/in/vijayanirmalagopal-5a54159a/) as our speaker.
 
 <br>
 
-![acdkochi1902](/img/awsugkochi-acdkochi19-speaker-jiju.png)
+![acdkochi1902](/img/awsugkochi-acdkochi19-speaker-nirmala.png)
 
 
 <br> 
@@ -50,36 +49,37 @@ To learn more about AWS Community Day Kochi 2019, please visit the [Community Da
 
 <br> <br> 
 
-It's a great pleasure to have Jiju as a speaker. Let's find out more about the person
+It's a great pleasure to have Nirmala as a speaker. Let's find out more about the person
 
 <br> <br> 
 
-<h3> Jiju Thomas Mathew </h3>
+<h3> Vijaya Nirmala Gopal </h3>
 
 <br>
 
-- 30+ years into IT with recent 8 years on AWS, SysOPS, Cloud Architecting
+- Passionate about AWS, working as 'Devops Solutons Technical Lead'.   
+- Devops Solutions Technical Lead, Sonata Software
+- Writer/Blogger  https://cloudgoddess.blogspot.com,
 - Active participation in AWSUG BLR
-- Guest Speaker in various AWS Events 
-- AWS Certified Solutions Architect
-- AWS Certified Sysops Administrator
+- Ansible Galaxy Open Source contributor as well 
+
 
 <br>
 
 <h4> Agenda for talk </h4>
 <br>
-<h4>  Wordpress CMS to Serverless - Indirect </h4>
+<h4> IAM Everywhere </h4>
 <br>
 
-Jiju will be walking us through the challanges faced in setting up a corporate WordPress website in AWS
+Nirmala will be walking us through Amazon IAM Services
 
-- The challenges faced when the corporate website, was moved to S3 + CloudFront
-- Continuos deployments using Jenkins CI
-- Resource planning and cost optimization
-- Capturing e-mails and integrations with Zoho CRM
-- Secure distribution of demo videos
-- Video transcoding methods implemented
-- Piwik.JS + API Gateway + Elastic Search for visitor analytics. . 
+- Overview of IAM key entities
+- Use case explanation on IAM tying all other AWS services for 'Security on Cloud' 
+- IAM - When to use what out of Managed, Custom policies, permissions, roles, groups and/or users
+- IAM with Compute on how to use best practices
+- IAM with Analytics for best practices
+- IAM for security compliance and findings with Cloud Trail, Console, Program access
+- IAM with Security Hub 
 
 
 <br> <br> <br> <br>
