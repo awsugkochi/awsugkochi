@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: ACDKOCHI19 - AWS Community Day Kochi 2019 Speaker Announcement - Pranesh Vittal 
-date: 2019-08-14T10:40:10.000Z
+date: 2019-08-14T10:45:10.000Z
 description: ACDKOCHI19 - AWS Community Day Kochi 2019 Speaker Announcement -  Pranesh Vittal
 tags:
   - aws
@@ -29,7 +29,7 @@ tags:
 
 <br>
 
-![acdkochi1902](/img/awsugkochi-acdkochi19-speaker-nirmala.png)
+![acdkochi1902](/img/aawsugkochi-acdkochi19-speaker-pranesh.png)
 
 
 <br> 
