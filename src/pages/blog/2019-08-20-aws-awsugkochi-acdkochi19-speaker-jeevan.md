@@ -60,7 +60,7 @@ It's a great pleasure to have Jeevan as a speaker. Let's find out more about the
 - Jeevan is a DevOps Engineer based out of Bengaluru, India.
 - Jeevan is currently working as Engineering Manager at Nutanix
 - [AWS Community Hero](https://aws.amazon.com/developer/community/heroes/jeevan-dongre/)
-- Lead - AWS User Group Kochi
+- Lead - AWS User Group Bengaluru
 
 <br>
 
