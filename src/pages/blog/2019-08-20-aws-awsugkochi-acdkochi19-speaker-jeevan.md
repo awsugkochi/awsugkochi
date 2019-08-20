@@ -19,8 +19,7 @@ tags:
   - speakers
   - mindcurv
   - networkredux
-  - search
-  - elastic
+  - awsbilling
   - jeevandongre
 
 ---
