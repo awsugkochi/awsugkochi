@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: ACDKOCHI19 - AWS Community Day Kochi 2019 Speaker Announcement - Jeevan Dongre
-date: 2019-08-15T10:10:10.000Z
+date: 2019-08-20T10:10:10.000Z
 description: ACDKOCHI19 - AWS Community Day Kochi 2019 Speaker Announcement -  Jeevan Dongre
 tags:
   - aws
