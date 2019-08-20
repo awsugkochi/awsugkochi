@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: ACDKOCHI19 - AWS Community Day Kochi 2019 Platinum Sponsor Announcement - Mindcuv
+title: ACDKOCHI19 - AWS Community Day Kochi 2019 Platinum Sponsor Announcement - Mindcurv
 date: 2019-08-06T10:00:10.000Z
-description: ACDKOCHI19 - AWS Community Day Kochi 2019 Platinum Sponsor Announcement - Mindcuv
+description: ACDKOCHI19 - AWS Community Day Kochi 2019 Platinum Sponsor Announcement - Mindcurv
 tags:
   - aws
   - awsugkochi
