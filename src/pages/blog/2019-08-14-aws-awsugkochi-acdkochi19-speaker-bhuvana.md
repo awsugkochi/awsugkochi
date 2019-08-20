@@ -61,7 +61,7 @@ It's a great pleasure to have Bhuvana as a speaker. Let's find out more about th
  - Bhuvana is a co-organizer of the AWS User Group Bengaluru, instrumental in organizing meetups & AWS Community Day. 
  - Bhuvana is also an active speaker at AWS community events, & industry conferences, and delivers guest lectures on Cloud Computing for staff & students at engineering colleges affiliated to Anna University. 
 - Bhuvana  is one of the AWS re:Invent User Group leader diversity scholarship recipients for 2018 and AWS Community Hero.
-
+- [AWS Community Here](https://aws.amazon.com/developer/community/heroes/bhuvaneswari-subramani/?) 
 <br>
 
 <h4> Agenda for talk </h4>
