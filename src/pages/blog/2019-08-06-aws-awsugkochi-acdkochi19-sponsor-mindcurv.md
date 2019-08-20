@@ -29,7 +29,7 @@ tags:
 
 <br> 
 
-<h3> Mindcruv </h3>
+<h3> Mindcurv </h3>
 
 <br> 
 
