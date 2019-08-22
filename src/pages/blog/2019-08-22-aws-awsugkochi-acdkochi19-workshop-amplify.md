@@ -18,19 +18,22 @@ tags:
   - fastest
 
 ---
-<div style="text-align: justify">
+<br>
+<br>
+
+<h1>
 Are you a developer or an enthusiast looking forward to creating a cloud-powered mobile & Web Applications?  
-</div>
+</h1>
 
 <br>
 
-<div style="text-align: justify">
+
 [AWS Users Group Kochi](https://awsugkochi.in) (AWSUGKOCHI) is presenting hands on workshop on Amazon Amplify, the foundation for your cloud-powered mobile & Web Apps.
-</div>
+
 
 <br>
 
-![acdkochi1902](/img/awsugkochi-acdkochi19-speaker-aplify.png)
+![acdkochi1902](/img/awsugkochi-acdkochi19-workshop-aplify.png)
 
 
 <br> 
