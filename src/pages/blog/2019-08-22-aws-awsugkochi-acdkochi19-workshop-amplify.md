@@ -98,9 +98,12 @@ Aim of this workshop is to teach absolute beginners on how to add Amplify backen
 - Amplify CLI installed and configured, Link: https://github.com/aws-amplify/amplify-cli
 
 <br>
+
 Please ensure all of the above is ready BEFORE attending the workshop to make the best use of the workshop
 
-**Trainer**
+<br>
+
+**Trainer Details**
 
 This workshop will be handled by [Prashanth HN](https://www.linkedin.com/in/hnprashanth/) from AWS UG Bangalore.
 
@@ -112,9 +115,11 @@ This workshop will be handled by [Prashanth HN](https://www.linkedin.com/in/hnpr
 - Co-Founder at WheelsBox.com
 - Community Leader - AWS User Group BLR
 
+For any additional details, reach out to us at info@awsugkochi.in
+
 <br> <br> <br> <br>
 
-Register your tickets now from : https://communityday.awsugkochi.in
+Register your tickets now from : https://communityday.awsugkochi.in ( Contact us for Group Ticket discounts)
 
 <br> <br> <br> <br>
 Interesting in sponsoring the event, or exploring the possibility of presenting at our first community day, please contact **info@awsugkochi.in**
