@@ -22,13 +22,13 @@ tags:
 <br>
 
 <h1>
-Are you a developer or an enthusiast looking forward to creating a cloud-powered mobile & Web Applications?  
+Are you a developer or an enthusiast looking forward to creating a cloud-powered mobile & Web Apps?  
 </h1>
 
 <br>
 
 
-[AWS Users Group Kochi](https://awsugkochi.in) (AWSUGKOCHI) is presenting hands on workshop on Amazon Amplify, the foundation for your cloud-powered mobile & Web Apps.
+[AWS Users Group Kochi](https://awsugkochi.in) (AWSUGKOCHI) is presenting hands on workshop on [Amazon Amplify](https://aws-amplify.github.io/), the foundation for your cloud-powered mobile & Web Apps.
 
 
 <br>
@@ -50,6 +50,19 @@ AWS Community Days are community-organized cloud education events, featuring tec
 
 To learn more about AWS Community Day Kochi 2019, please visit the [Community Day website](https://communityday.awsugkochi.in)
 
+<br> <br> 
+
+<div style="text-align: justify">
+Community-based learning is the best way to enhance the concepts being taught by connecting with enthusiasts in person, thereby sharing first-hand experiences and familiar, accessible examples. [AWSUGKOCHI](https://communityday.awsugkochi.in) is presenting hands on workshop on Amazon Amplify. Here are the details and make sure to grab your tickets as early as possible. We have only limited seats are available for the workshops.
+</div>
+
+<h2>
+Hands on workshop on Amazon Amplify
+</h2>
+
+- A comprehensive library for building sophisticated cloud-powered apps
+- A powerful toolchain built for developers
+- A beautiful component library connected to the cloud
 
 <div style="text-align: justify">
 AWS Amplify makes it easy to create, configure, and implement scalable mobile and web apps powered by AWS. Amplify seamlessly provisions and manages your mobile backend and provides a simple framework to easily integrate your backend with your iOS, Android, Web, and React Native frontends. Amplify also automates the application release process of both your frontend and backend allowing you to deliver features faster.
