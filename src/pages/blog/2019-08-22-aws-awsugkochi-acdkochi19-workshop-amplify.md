@@ -70,10 +70,13 @@ Amazon Amplify
 <div style="text-align: justify">
 AWS Amplify makes it easy to create, configure, and implement scalable mobile and web apps powered by AWS. Amplify seamlessly provisions and manages your mobile backend and provides a simple framework to easily integrate your backend with your iOS, Android, Web, and React Native frontends. Amplify also automates the application release process of both your frontend and backend allowing you to deliver features faster.
 </div>
-<br>
-Read more about Amazon Amplify [Documentations](https://aws-amplify.github.io/)
 
 <br>
+
+Read more about Amazon Amplify [Documentations](https://aws-amplify.github.io/)
+
+<br> <br>
+
 
 <h4>
 Workshop : Add Serverless backend to your frontend app with ease using AWS Amplify
@@ -93,12 +96,13 @@ Aim of this workshop is to teach absolute beginners on how to add Amplify backen
 - Your computer must have node, npm & git installed.
 - AWS Account
 - Amplify CLI installed and configured, Link: https://github.com/aws-amplify/amplify-cli
+
 <br>
 Please ensure all of the above is ready BEFORE attending the workshop to make the best use of the workshop
 
 **Trainer**
 
-This workshop will be handled by [Prashanth HN](https://www.linkedin.com/in/hnprashanth/) from Bangalore.
+This workshop will be handled by [Prashanth HN](https://www.linkedin.com/in/hnprashanth/) from AWS UG Bangalore.
 
 - Professional who has experience in scaling up an E-Commerce startup from zero to raising 12 million USD. 
 - 9+ years of experience in using and architecting Cloud Solutions, mostly AWS. 
