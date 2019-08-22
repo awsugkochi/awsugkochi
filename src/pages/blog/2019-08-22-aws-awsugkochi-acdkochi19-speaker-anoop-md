@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: ACDKOCHI19 - AWS Community Day Kochi 2019 Speaker Announcement - Muthukumar Oman
-date: 2019-08-22T10:10:10.000Z
-description: ACDKOCHI19 - AWS Community Day Kochi 2019 Speaker Announcement -  Muthukumar Oman
+title: ACDKOCHI19 - AWS Community Day Kochi 2019 Speaker Announcement - Anoop Mohan
+date: 2019-08-22T10:10:20.000Z
+description: ACDKOCHI19 - AWS Community Day Kochi 2019 Speaker Announcement -  Anoop Mohan
 tags:
   - aws
   - awsugkochi
@@ -23,7 +23,7 @@ tags:
 
 ---
 
-[AWS Users Group Kochi](https://awsugkochi.in) (AWSUGKOCHI) is super excited to have [Muthukumar Oman](https://www.linkedin.com/in/omuthu/) as our speaker.
+[AWS Users Group Kochi](https://awsugkochi.in) (AWSUGKOCHI) is super excited to have [Anoop Mohan](https://www.linkedin.com/in/anoopmoh/) as our speaker.
 
 <br>
 
@@ -47,24 +47,26 @@ To learn more about AWS Community Day Kochi 2019, please visit the [Community Da
 
 <br> <br> 
 
-It's a great pleasure to have Muthukumar as a speaker. Let's find out more about the person
+It's a great pleasure to have Anoop as a speaker. Let's find out more about the person
 
 <br> <br> 
 
-<h3> Muthukumar Oman </h3>
+<h3> Anoop Mohan </h3>
 
 <br>
 
-- Senior Architect - AWS Cloud & Big Data Solutions at Agilisium Consulting
-- Experienced Cloud Architect with a demonstrated history of working in the information technology and services industry. 
-- Skilled in AWS, Java, Perl, Python with good experience in architecture, design and development of applications 
+- Associate Director of Technology,  Asianet News Media And Entertainment Pvt Ltd
+- 7 Years + Experiance in Media tech space.
+- Cloud Warrior in AWS Community
+- [Anoop's Project is a case study in AWS](https://aws.amazon.com/solutions/case-studies/asianet-news/)
+
 
 
 <br>
 
 <h4> Agenda for talk </h4>
 <br>
-<h4> Rapid development, Continuous Integration and Delivery (CI/CD) for Chatbots on AWS </h4>
+<h4> Complete Media Content Management System and Website on Serverless </h4>
 <br>
 
 <div style="text-align: justify">
@@ -79,9 +81,7 @@ As we get used to chatbot development technologies, it is equally important to l
 <div style="text-align: justify">
 We will see how to use CloudFormation to provision services such as Lex, Alexa, Lambda while roll back transaction in case of failure and to use tools like Jenkins or Terraform to auto deploy code.
 </div>
-
 <br>
-
 - Rapid development of a bot using AWS services
 - Provisioning AWS Services for bot using CloudFormation
 - Setting up code repository
