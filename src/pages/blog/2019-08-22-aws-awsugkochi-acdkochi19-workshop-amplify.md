@@ -119,7 +119,7 @@ For any additional details, reach out to us at info@awsugkochi.in
 
 <br> <br> <br> <br>
 
-Register your tickets now from : https://communityday.awsugkochi.in ( Contact us for Group Ticket discounts)
+Register your tickets now from : https://communityday.awsugkochi.in ( Contact us for Group discounts)
 
 <br> <br> <br> <br>
 Interesting in sponsoring the event, or exploring the possibility of presenting at our first community day, please contact **info@awsugkochi.in**
