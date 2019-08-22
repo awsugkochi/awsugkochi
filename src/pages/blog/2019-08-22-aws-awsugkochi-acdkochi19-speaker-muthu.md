@@ -57,7 +57,7 @@ It's a great pleasure to have Muthukumar as a speaker. Let's find out more about
 
 - Senior Architect - AWS Cloud & Big Data Solutions at Agilisium Consulting
 - Experienced Cloud Architect with a demonstrated history of working in the information technology and services industry. 
-- Skilled in AWS, Java, Perl, Python with good experience in architecture, design, development of applications 
+- Skilled in AWS, Java, Perl, Python with good experience in architecture, design and development of applications 
 
 
 <br>
@@ -71,15 +71,15 @@ It's a great pleasure to have Muthukumar as a speaker. Let's find out more about
 From time to time, humans have always found newer ways to make lives easier leveraging advancements in technology. The buzzword of late, are chatbots or conversational bots! 
 Developing chatbots have become more easy and common, with Cloud service providers offerings like Amazon Lex,Alexa and AWS Lambda.
 </div>
-
+<br>
 <div style="text-align: justify">
 As we get used to chatbot development technologies, it is equally important to learn about automating the provisioning of the services and automated deployment. In this session, we cover a step by step approach of automating chatbot development process to achieve rapid development.
 </div>
-
+<br>
 <div style="text-align: justify">
 We will see how to use CloudFormation to provision services such as Lex, Alexa, Lambda while roll back transaction in case of failure and to use tools like Jenkins or Terraform to auto deploy code.
 </div>
-
+<br>
 - Rapid development of a bot using AWS services
 - Provisioning AWS Services for bot using CloudFormation
 - Setting up code repository
