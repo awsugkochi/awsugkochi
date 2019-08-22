@@ -52,13 +52,17 @@ To learn more about AWS Community Day Kochi 2019, please visit the [Community Da
 
 <br> <br> 
 
-<div style="text-align: justify">
-Community-based learning is the best way to enhance the concepts being taught by connecting with enthusiasts in person, thereby sharing first-hand experiences and familiar, accessible examples. [AWSUGKOCHI](https://communityday.awsugkochi.in) is presenting hands on workshop on Amazon Amplify. Here are the details and make sure to grab your tickets as early as possible. We have only limited seats are available for the workshops.
-</div>
-
 <h2>
 Hands on workshop on Amazon Amplify
 </h2>
+
+<div style="text-align: justify">
+Community-based learning is the best way to enhance the concepts being taught by connecting with enthusiasts in person, thereby sharing first-hand experiences and familiar, accessible examples. [AWSUGKOCHI](https://communityday.awsugkochi.in) is presenting hands on workshop on Amazon Amplify. Here are the details and make sure to [grab your tickets](https://konfhub.com/awsugkochi) as early as possible. We have only limited seats are available for the workshops.
+</div>
+
+<h3>
+Amazon Amplify
+</h3>
 
 - A comprehensive library for building sophisticated cloud-powered apps
 - A powerful toolchain built for developers
