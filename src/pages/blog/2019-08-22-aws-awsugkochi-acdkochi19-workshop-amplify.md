@@ -46,19 +46,17 @@ Are you a developer or an enthusiast looking forward to creating a cloud-powered
 AWS Community Days are community-organized cloud education events, featuring technical discussions and demos led by expert AWS users and industry leaders from around the world. AWS community is designed to educate everyone about the AWS platform, architecture best practices and about new innovation. The global AWS ecosystem consists of a range of AWS enthusiasts and advocates who are passionate about helping others build.
 </div>
 
-<br> <br> 
+<br> 
 
 To learn more about AWS Community Day Kochi 2019, please visit the [Community Day website](https://communityday.awsugkochi.in)
 
-<br> <br> 
+<br>  
 
 <h2>
 Hands on workshop on Amazon Amplify
 </h2>
 
-<div style="text-align: justify">
 Community-based learning is the best way to enhance the concepts being taught by connecting with enthusiasts in person, thereby sharing first-hand experiences and familiar, accessible examples. [AWSUGKOCHI](https://communityday.awsugkochi.in) is presenting hands on workshop on Amazon Amplify. Here are the details and make sure to [grab your tickets](https://konfhub.com/awsugkochi) as early as possible. We have only limited seats are available for the workshops.
-</div>
 
 <h3>
 Amazon Amplify
@@ -68,14 +66,22 @@ Amazon Amplify
 - A powerful toolchain built for developers
 - A beautiful component library connected to the cloud
 
+<br>
 <div style="text-align: justify">
 AWS Amplify makes it easy to create, configure, and implement scalable mobile and web apps powered by AWS. Amplify seamlessly provisions and manages your mobile backend and provides a simple framework to easily integrate your backend with your iOS, Android, Web, and React Native frontends. Amplify also automates the application release process of both your frontend and backend allowing you to deliver features faster.
+</dib>
+Read more about Amazon Amplify [Documentations](https://aws-amplify.github.io/)
 
-Mobile applications require cloud services for actions that can’t be done directly on the device, such as offline data synchronization, storage, or data sharing across multiple users. You often have to configure, set up, and manage multiple services to power the backend. You also have to integrate each of those services into your application by writing multiple lines of code. However, as the number of application features grow, your code and release process becomes more complex and managing the backend requires more time.
+<br>
+<h4>
+Workshop : Add Serverless backend to your frontend app with ease using AWS Amplify
+</h4>
 
-Amplify provisions and manages backends for your mobile applications. You just select the capabilities you need such as authentication, analytics, or offline data sync and Amplify will automatically provision and manage the AWS service that powers each of the capabilities. You can then integrate those capabilities into your application through the Amplify libraries and UI components.
+Here is a small abstract about the workshop:
+
+<div style="text-align: justify">
+Aim of this workshop is to teach absolute beginners on how to add Amplify backend to their frontend project. This project is built with React and completely relies on the local state for data. We convert this app step by step to store data on DynamoDB by calling REST APIs. We will also add authentication and learn how to store some user attributes in Cognito.
 </div>
-
 
 <br> <br> <br> <br>
 
