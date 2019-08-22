@@ -69,10 +69,12 @@ Amazon Amplify
 <br>
 <div style="text-align: justify">
 AWS Amplify makes it easy to create, configure, and implement scalable mobile and web apps powered by AWS. Amplify seamlessly provisions and manages your mobile backend and provides a simple framework to easily integrate your backend with your iOS, Android, Web, and React Native frontends. Amplify also automates the application release process of both your frontend and backend allowing you to deliver features faster.
-</dib>
+</div>
+
 Read more about Amazon Amplify [Documentations](https://aws-amplify.github.io/)
 
 <br>
+
 <h4>
 Workshop : Add Serverless backend to your frontend app with ease using AWS Amplify
 </h4>
