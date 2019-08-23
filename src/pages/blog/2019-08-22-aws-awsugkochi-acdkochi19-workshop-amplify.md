@@ -83,7 +83,10 @@ Workshop : Add Serverless backend to your frontend app with ease using AWS Ampli
 </h4>
 
 <br>
+
 Here is a small abstract about the workshop:
+
+<br>
 
 <div style="text-align: justify">
 <span style="color:blue">
