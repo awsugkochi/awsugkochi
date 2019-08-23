@@ -73,7 +73,7 @@ AWS Amplify makes it easy to create, configure, and implement scalable mobile an
 
 <br>
 
-Read more about Amazon Amplify [Documentations](https://aws-amplify.github.io/)
+Read more about Amazon Amplify [documentations](https://aws-amplify.github.io/)
 
 <br> <br>
 
@@ -82,10 +82,13 @@ Read more about Amazon Amplify [Documentations](https://aws-amplify.github.io/)
 Workshop : Add Serverless backend to your frontend app with ease using AWS Amplify
 </h4>
 
+<br>
 Here is a small abstract about the workshop:
 
 <div style="text-align: justify">
+<span style="color:blue">
 Aim of this workshop is to teach absolute beginners on how to add Amplify backend to their frontend project. This project is built with React and completely relies on the local state for data. We convert this app step by step to store data on DynamoDB by calling REST APIs. We will also add authentication and learn how to store some user attributes in Cognito.
+</span>
 </div>
 
 <br>
