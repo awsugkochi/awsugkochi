@@ -81,10 +81,10 @@ AWS Amplify makes it easy to create, configure, and implement scalable mobile an
 
 Read more about Amazon Amplify [documentations](https://aws-amplify.github.io/)
 
-<br> <br>
+<br> 
 
 ---
-
+<br>
 <h4>
 Workshop : Add Serverless backend to your frontend app with ease using AWS Amplify
 </h4>
@@ -135,11 +135,11 @@ For any additional details, reach out to us at info@awsugkochi.in
 
 Register your tickets now from : https://communityday.awsugkochi.in ( Contact us for Group discounts)
 
+---
+
 <br> <br> <br> <br>
 Interesting in sponsoring the event, or exploring the possibility of presenting at our first community day, please contact **info@awsugkochi.in**
 
-
----
 
 <br> <br>
 
