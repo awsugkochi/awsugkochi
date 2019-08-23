@@ -52,15 +52,21 @@ To learn more about AWS Community Day Kochi 2019, please visit the [Community Da
 
 <br>  
 
+---
+
 <h2>
 Hands on workshop on Amazon Amplify
 </h2>
+
+<br>
 
 Community-based learning is the best way to enhance the concepts being taught by connecting with enthusiasts in person, thereby sharing first-hand experiences and familiar, accessible examples. [AWSUGKOCHI](https://communityday.awsugkochi.in) is presenting hands on workshop on Amazon Amplify. Here are the details and make sure to [grab your tickets](https://konfhub.com/awsugkochi) as early as possible. We have only limited seats are available for the workshops.
 
 <h3>
 Amazon Amplify
 </h3>
+
+<br>
 
 - A comprehensive library for building sophisticated cloud-powered apps
 - A powerful toolchain built for developers
@@ -77,6 +83,7 @@ Read more about Amazon Amplify [documentations](https://aws-amplify.github.io/)
 
 <br> <br>
 
+---
 
 <h4>
 Workshop : Add Serverless backend to your frontend app with ease using AWS Amplify
@@ -92,6 +99,7 @@ Here is a small abstract about the workshop:
 <span style="color:blue">
 Aim of this workshop is to teach absolute beginners on how to add Amplify backend to their frontend project. This project is built with React and completely relies on the local state for data. We convert this app step by step to store data on DynamoDB by calling REST APIs. We will also add authentication and learn how to store some user attributes in Cognito.
 </span>
+
 </div>
 
 <br>
@@ -130,6 +138,8 @@ Register your tickets now from : https://communityday.awsugkochi.in ( Contact us
 <br> <br> <br> <br>
 Interesting in sponsoring the event, or exploring the possibility of presenting at our first community day, please contact **info@awsugkochi.in**
 
+
+---
 
 <br> <br>
 
