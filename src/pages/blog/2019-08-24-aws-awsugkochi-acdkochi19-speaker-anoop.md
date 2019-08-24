@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: ACDKOCHI19 - AWS Community Day Kochi 2019 Speaker Announcement - Anoop Mohan
-date: 2019-08-22T10:10:20.000Z
+date: 2019-08-24T10:10:20.000Z
 description: ACDKOCHI19 - AWS Community Day Kochi 2019 Speaker Announcement -  Anoop Mohan
 tags:
   - aws
@@ -17,9 +17,9 @@ tags:
   - developers
   - engineering
   - speakers
-  - chatbots
-  - agilisium
-  - omuthu
+  - media
+  - asianet
+  - anoopmoh
 
 ---
 
@@ -27,7 +27,7 @@ tags:
 
 <br>
 
-![acdkochi1902](/img/awsugkochi-acdkochi19-speaker-muthu.png)
+![acdkochi1902](/img/awsugkochi-acdkochi19-speaker-anoop.png)
 
 
 <br> 
@@ -68,25 +68,21 @@ It's a great pleasure to have Anoop as a speaker. Let's find out more about the 
 <br>
 <h4> Complete Media Content Management System and Website on Serverless </h4>
 <br>
+Talk abstract : 
+ - Migration of traditional system on cloud to Serverless 
+ - How did Asianet choose the componets to build serverless CMS
+ - What was their challenges or use case to build the serverless model
+ - How Amazon platform made easy to achive the objective
 
-<div style="text-align: justify">
-From time to time, humans have always found newer ways to make lives easier leveraging advancements in technology. The buzzword of late, are chatbots or conversational bots! 
-Developing chatbots have become more easy and common, with Cloud service providers offerings like Amazon Lex,Alexa and AWS Lambda.
-</div>
-<br>
-<div style="text-align: justify">
-As we get used to chatbot development technologies, it is equally important to learn about automating the provisioning of the services and automated deployment. In this session, we cover a step by step approach of automating chatbot development process to achieve rapid development.
-</div>
-<br>
-<div style="text-align: justify">
-We will see how to use CloudFormation to provision services such as Lex, Alexa, Lambda while roll back transaction in case of failure and to use tools like Jenkins or Terraform to auto deploy code.
-</div>
-<br>
-- Rapid development of a bot using AWS services
-- Provisioning AWS Services for bot using CloudFormation
-- Setting up code repository
-- Setting up Continuous Integration (CI) and Continuous Delivery (CD)
-- Deploying Bot into using CI/CD pipelines
+ <br>
+
+ <div style="text-align: justify">
+ <span style="color:blue">
+ Asianet News Media & Entertainment Pvt., Ltd. is a multi-platform and multi-channel media group. It offers services in broadcast, radio, digital and print to 15 million people across 20 cities in India
+ </span>
+ </div>
+
+ <br>
 
 <br> <br> <br> <br>
 
