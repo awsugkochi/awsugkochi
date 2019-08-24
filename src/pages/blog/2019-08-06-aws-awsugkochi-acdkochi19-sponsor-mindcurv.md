@@ -36,9 +36,9 @@ tags:
 A few words from our sponsor :
 
 <br>
-<div style="text-align: justify">
+
 [Mindcurv](https://www.mindcurv.com) creates, manages and evolves advanced digital platforms, cloud infrastructures and IoT experiences. We are a team of over 230 members from 16 nationalities. Our global offices operate as a single, borderless team servicing our customers around the world.
-</div>
+
 <br>
 
 <div style="text-align: justify">
