@@ -126,11 +126,11 @@ Please ensure all of the above is ready BEFORE attending the workshop to make th
 
 **Trainer Details**
 
-This workshop will be handled by [Shajee Pulukkool](https://www.linkedin.com/in/shajeep/), Ex-amazon Tech Specialist. Founder at Cloud4ai
+This workshop will be handled by [Shajee Pulukkool](https://www.linkedin.com/in/shajeep/), Ex-amazon Tech Specialist. Founder at Consult4ai
 
 - 19+ Years Software Solutioning Expertise
 - 3+ Years with Amazon (AWS) as Tech Specialist
-- Founder Cloud4ai (ai power by cloud !!!)
+- Founder Consult4ai (ai power by cloud !!!)
 - Technology Specialisations in Mainframe, VMS, BigData, Cloud, AI/ML
 - Major Roles
     - Trainer
