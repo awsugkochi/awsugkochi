@@ -68,12 +68,15 @@ It's a great pleasure to have Anoop as a speaker. Let's find out more about the 
 <br>
 <h4> Complete Media Content Management System and Website on Serverless </h4>
 <br>
-Talk abstract : 
+
+
+
  - Migration of traditional system on cloud to Serverless 
  - How did Asianet choose the componets to build serverless CMS
  - What was their challenges or use case to build the serverless model
  - How Amazon platform made easy to achive the objective
 
+ <br>
  <br>
 
  <div style="text-align: justify">
