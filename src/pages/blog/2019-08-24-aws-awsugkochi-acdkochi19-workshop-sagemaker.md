@@ -141,6 +141,8 @@ This workshop will be handled by [Shajee Pulukkool](https://www.linkedin.com/in/
     - AWS SA + SysOps + Bigdata on AWS + ML on AWS
 
 <br>
+
+[Register Now](https://konfhub.com/awsugkochi)
 <br>
 
 For any additional details, reach out to us at info@awsugkochi.in
