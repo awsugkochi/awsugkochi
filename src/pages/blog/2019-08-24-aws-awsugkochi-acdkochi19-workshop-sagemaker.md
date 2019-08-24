@@ -29,7 +29,7 @@ Are you interested in create, train, and deploy machine learning models in the c
 <br>
 
 
-[AWS Users Group Kochi](https://awsugkochi.in) (AWSUGKOCHI) is presenting hands on workshop on [Amazon Sagemaker](https://aws.amazon.com/sagemaker/). A tool provides every developer and data scientist with the ability to build, train, and deploy machine learning models quickly in Cloud.
+[AWS Users Group Kochi](https://awsugkochi.in) (AWSUGKOCHI) is presenting hands on workshop on [Amazon Sagemaker](https://aws.amazon.com/sagemaker/). Managed Service provides every developer and data scientist with the ability to build, train, and deploy machine learning models quickly in Cloud.
 
 
 <br>
@@ -80,7 +80,7 @@ Amazon SageMaker provides every developer and data scientist with the ability to
 
 <br>
 
-Read more about Amazon Amplify [documentations](https://aws.amazon.com/sagemaker/)
+Read more about Amazon Sagemaker [documentations](https://aws.amazon.com/sagemaker/)
 
 <br> 
 
