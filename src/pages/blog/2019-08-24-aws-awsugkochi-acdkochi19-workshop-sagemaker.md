@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: ACDKOCHI19 - AWS Community Day Kochi 2019 Workshop Announcement - Amazon Sagemaker
-date: 2019-08-22T10:50:10.000Z
+date: 2019-08-24T10:50:10.000Z
 description: ACDKOCHI19 - AWS Community Day Kochi 2019 Workshop Announcement -  Amazon Sagemaker
 tags:
   - aws
