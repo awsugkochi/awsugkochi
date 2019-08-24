@@ -23,7 +23,7 @@ tags:
 <br>
 
 <h1>
-Are you interested in create, train, and deploy machine learning models in the cloud ?
+Are you interested in creating, train, and deploy machine learning models in the cloud ?
 </h1>
 
 <br>
