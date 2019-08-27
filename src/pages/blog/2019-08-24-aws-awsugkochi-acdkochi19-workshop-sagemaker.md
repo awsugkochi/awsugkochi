@@ -111,9 +111,12 @@ Aim of this workshop is to teach absolute beginners on basics of Machine Learnin
 
 </div>
 
-<!-- <a href="https://konfhub.com/awsugkochi">    
-![resgister001](/img/awsugkochi-acdkochi19-registernow.png)
-</a> -->
+<br>
+
+
+<div class="join-button">
+  <a href="https://konfhub.com/register/">Register now !</a>
+</div>
 
 <br>
 
