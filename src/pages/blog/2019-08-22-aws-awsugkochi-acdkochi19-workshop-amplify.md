@@ -108,7 +108,7 @@ Aim of this workshop is to teach absolute beginners on how to add Amplify backen
 <input style="width: 200px; padding: 10px; cursor: pointer; box-shadow: 6px 6px 5px; #999; -webkit-box-shadow: 6px 6px 5px #999; -moz-box-shadow: 6px 6px 5px #999; font-weight: bold; background: #FF9900; color: #000; border-radius: 10px; border: 1px solid #999; font-size: 150%;" type="button" value="Register Now" onclick="location.href='https://konfhub.com/awsugkochi'" />
 </form>  
 
-<br>
+<br> <br>
 
 **Prerequisites**
 
