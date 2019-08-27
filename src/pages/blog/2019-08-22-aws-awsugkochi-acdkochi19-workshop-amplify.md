@@ -137,13 +137,16 @@ This workshop will be handled by [Prashanth HN](https://www.linkedin.com/in/hnpr
 
 For any additional details, reach out to us at info@awsugkochi.in
 
-<br> <br> <br> <br>
+
+<br> <br> 
 
 <form>
 <input style="width: 200px; padding: 10px; cursor: pointer; box-shadow: 6px 6px 5px; #999; -webkit-box-shadow: 6px 6px 5px #999; -moz-box-shadow: 6px 6px 5px #999; font-weight: bold; background: #FF9900; color: #000; border-radius: 10px; border: 1px solid #999; font-size: 150%;" type="button" value="Register Now" onclick="location.href='https://konfhub.com/awsugkochi'" />
 </form>  
 
-<br> Contact us for Group discounts
+<br> 
+
+Contact us for Group discounts
 
 ---
 
