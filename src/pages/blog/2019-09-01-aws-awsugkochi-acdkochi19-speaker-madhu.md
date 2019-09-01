@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: ACDKOCHI19 - AWS Community Day Kochi 2019 Speaker Announcement - Madhusudan Shekar
-date: 2019-08-24T10:10:20.000Z
+date: 2019-09-01T10:10:20.000Z
 description: ACDKOCHI19 - AWS Community Day Kochi 2019 Speaker Announcement -  Madhusudan Shekar
 tags:
   - aws
@@ -26,7 +26,7 @@ tags:
 
 <br>
 
-![acdkochi1902](/img/awsugkochi-acdkochi19-speaker-mohan.png)
+![acdkochi1902](/img/awsugkochi-acdkochi19-speaker-madhu.png)
 
 
 <br> 
