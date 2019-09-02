@@ -22,7 +22,7 @@ tags:
 
 ---
 
-[AWS Users Group Kochi](https://awsugkochi.in) (AWSUGKOCHI) is super excited to have [Robin Varghese](https://www.linkedin.com/in/joby-joseph-253baa35/) as our Speaker.
+[AWS Users Group Kochi](https://awsugkochi.in) (AWSUGKOCHI) is super excited to have [Robin Varghese](https://www.linkedin.com/in/robinkoikkara/) as our Speaker.
 
 <br>
 
