@@ -134,6 +134,7 @@ This workshop will be handled by [Prashanth HN](https://www.linkedin.com/in/hnpr
 - One of the official contributors of AWS Amplify. 
 - Co-Founder at WheelsBox.com
 - Community Leader - AWS User Group BLR
+- [AWS SERVERLESS HERO](https://aws.amazon.com/developer/community/heroes/prashanth-hn/) 
 
 For any additional details, reach out to us at info@awsugkochi.in
 
