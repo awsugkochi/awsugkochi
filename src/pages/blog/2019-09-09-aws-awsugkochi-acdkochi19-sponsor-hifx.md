@@ -31,7 +31,7 @@ tags:
 
 <br> 
 
-A few words from our sponsor :
+<h4> A few words from our sponsor : </h4>
 
 <div style="text-align: justify">
 Established in 2001, we are a group of passionate technologists with a strong focus on excellence, and commitment to providing high quality, cost-effective solutions to our clients.
@@ -53,7 +53,7 @@ Our unique approach to software engineering, passion for innovation and dedicati
 We are available in the below social media profiles .
 
 - [Linkedin](https://www.linkedin.com/company/hifx-it-&-media-services-private-limited) 
-- [Facebook] (https://www.facebook.com/HiFXIT) 
+- [Facebook](https://www.facebook.com/HiFXIT) 
 
 
 <br> <br>
