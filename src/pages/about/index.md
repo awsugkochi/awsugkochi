@@ -24,18 +24,20 @@ All skills levels including students who would like to learn about AWS are welco
 
 - [Meetup](https://www.meetup.com/awsugkochi/)
 
+- [Linkedin](https://www.linkedin.com/awsugkochi)
+
+- [Twitter](https://www.twitter.com/awsugkochi)
+
 - [Facebook](https://www.facebook.com/awsugkochi/)
 
-- [Linkedin](https://www.linkedin.com/groups/10414503/)
 
-
-### Leaders
-
-- [Abhilash Nair](https://www.linkedin.com/in/hiabhilash/) -
-  MD & CEO at SupportSages Consultancy Services
+### Leadership Team
 
 - [Dijeesh Padinharethil](https://www.linkedin.com/in/dijeesh-padinharethil/) -
   Associate Director - Cloud Services at Network Redux LLC
+
+- [Abhilash Nair](https://www.linkedin.com/in/hiabhilash/) -
+  MD & CEO at SupportSages Consultancy Services
 
 - [Shaji K ](https://www.linkedin.com/in/shaji-k-a7b14a19/) -
   Technical Architect at Marlabs Inc   
