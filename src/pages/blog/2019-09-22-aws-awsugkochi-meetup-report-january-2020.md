@@ -86,7 +86,7 @@ Full presentation is available [here](https://speakerdeck.com/debnsuma/aws-re-in
 
 <br> 
 
-The event concluded by Thanks note by [Dijeesh Padinharethil](https://www.linkedin.com/in/dijeesh-padinharethil/), Co-Organizer AWS User Group Kochi. He also announced few event plans in 2020.
+The event concluded with a Thanks note by [Dijeesh Padinharethil](https://www.linkedin.com/in/dijeesh-padinharethil/), Co-Organizer AWS User Group Kochi. He also announced few event plans in 2020.
 
 <br>
 
