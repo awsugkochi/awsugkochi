@@ -48,6 +48,8 @@ Suman Debnath also shared his re:invent experience and walked us through the lat
 
 He also demonstrated the AWS Deep Composer and Deepens with the audience. One of our members also tried his musical skills with the Deep Composer. Here are the few items discussed during the session.
 
+<br> <br>
+
 - Amazon EC2 Inf1 Instances (Inferentia)
 - Amazon Graviton Processor 
 - Amazon Graviton2 Based Instances (M6g, C6g, R6g) 
@@ -84,7 +86,7 @@ Full presentation is available [here](https://speakerdeck.com/debnsuma/aws-re-in
 
 <br> 
 
-The event concluded by Thanks note by Dijeesh Padinharethil, Co-Organizer AWS User Group Kochi. He also announced few event plans in 2020.
+The event concluded by Thanks note by [Dijeesh Padinharethil](https://www.linkedin.com/in/dijeesh-padinharethil/), Co-Organizer AWS User Group Kochi. He also announced few event plans in 2020.
 
 <br>
 
@@ -121,7 +123,7 @@ Thanks to
 
 <br> <br>
 
-We are looking forward to meeting you all in our upcoming events. [Here](https://photos.app.goo.gl/gYXHoPepVyTB2ky1A) is our photo gallery for this event.
+We are looking forward to meeting you all in our upcoming events. [Here](https://photos.app.goo.gl/gYXHoPepVyTB2ky1A) is our photo gallery for this event. 
 
 
 
