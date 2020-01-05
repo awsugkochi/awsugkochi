@@ -123,7 +123,7 @@ Thanks to
 - [Arun Nair](https://www.linkedin.com/in/arun-nair-a2916449/) for arranging the venue
 - All the attendees for spending your weekend with us. 
 
-We are looking forward to meeting you all in our upcoming events. Here is our photo gallery for this event.
+We are looking forward to meeting you all in our upcoming events. [Here](https://photos.app.goo.gl/gYXHoPepVyTB2ky1A) is our photo gallery for this event.
 
 
 
