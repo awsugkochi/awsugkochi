@@ -24,23 +24,16 @@ AWSUGKOCHI has conducted our first meetup event in 2020 in style with AWS re:inv
 
 ---
 
+AWS User Group India is conducting re:invent recap roadshows across all major cities in India, Bangladesh, and Sri Lanka. Here are the event details. Try to attend one near your city. It's fun and informative.
+
 <br>
 
 ![acdkochi2020](/img/awsugkochi-meetup-jan-2020-events.png)
 
 <br> <br>
 
-AWS User Group India is conducting re:invent recap roadshows across all major cities in India, Bangladesh, and Sri Lanka. Here are the event details. Try to attend one near your city. It's fun and informative.
 
-
-<br>
-
-![acdkochi2020](/img/awsugkochi-meetup-jan-2020-event.png)
-
-<br> <br>
-
-
-The event started with an Introduction by Abhilash Nair, Co-Organizer of AWS User Group Kochi. Abhilash is one of the team members who traveled to USA for re:invent conference. He shared his re:invent experience with the attendees also showcased the Deepracer. 
+The event started with an Introduction by [Abhilash Nair](https://www.linkedin.com/in/hiabhilash/), Co-Organizer of [AWS User Group Kochi](https://awsugkochi.in). Abhilash is one of the team members who traveled to USA for re:invent conference. He shared his re:invent experience with the attendees also showcased the Deepracer.
 
 
 <br>
@@ -51,6 +44,34 @@ The event started with an Introduction by Abhilash Nair, Co-Organizer of AWS Use
 
 Suman Debnath also shared his re:invent experience and walked us through the latest  announcements and features in Compute, Storage, Database & Analytics, Security, Networking, Developers, Regions, and Availability zones and AI/ML
 
+<br> <br>
+
+He also demonstrated the AWS Deep Composer and Deepens with the audience. One of our members also tried his musical skills with the Deep Composer. Here are the few items discussed during the session.
+
+- Amazon EC2 Inf1 Instances (Inferentia)
+- Amazon Graviton Processor 
+- Amazon Graviton2 Based Instances (M6g, C6g, R6g) 
+- Amazon Braket (Fully Managed Service - Quantum Computing)
+- AWS Nitro Enclaves (Additional isolation to further protect highly sensitive data within EC2 instances)
+- AWS Compute Optimizer
+- Savings Plans
+- Amazon EKS for AWS Fargate
+- EC2 Image Builder
+- Amazon S3 Access Points
+- EBS Direct APIs for snapshots
+- Amazon Managed Apache Cassandra Service
+- Amazon Aurora Machine Learning Integration
+- Amazon RDS Proxy
+- UltraWarm for Amazon Elasticsearch Service
+- Amazon Redshift RA3 instances with Managed Storage
+- Amazon Detective
+- Amazon IAM Access Analyzer
+- AWS Transit Gateway for Inter-Region Peering
+- Provisioned Concurrency on AWS Lambda
+- AWS Outposts
+- Local Zones
+- AWS Wavelength ...
+
 
 <br>
 
@@ -58,37 +79,12 @@ Suman Debnath also shared his re:invent experience and walked us through the lat
 
 <br> <br>
 
-He also demonstrated the AWS Deep Composer and Deepens with the audience. One of our members also tried his musical skills with the Deep Composer. Here are the few items discussed during the session.
-
-Amazon EC2 Inf1 Instances (Inferentia)
-Amazon Graviton Processor 
-Amazon Graviton2 Based Instances (M6g, C6g, R6g) 
-Amazon Braket (Fully Managed Service - Quantum Computing)
-AWS Nitro Enclaves (Additional isolation to further protect highly sensitive data within EC2 instances)
-AWS Compute Optimizer
-Savings Plans
-Amazon EKS for AWS Fargate
-EC2 Image Builder
-Amazon S3 Access Points
-EBS Direct APIs for snapshots
-Amazon Managed Apache Cassandra Service
-Amazon Aurora Machine Learning Integration
-Amazon RDS Proxy
-UltraWarm for Amazon Elasticsearch Service
-Amazon Redshift RA3 instances with Managed Storage
-Amazon Detective
-Amazon IAM Access Analyzer
-AWS Transit Gateway for Inter-Region Peering
-Provisioned Concurrency on AWS Lambda
-AWS Outposts
-Local Zones
-AWS Wavelength
-
-
-<br> <br>
-
 Full presentation is available [here](https://speakerdeck.com/debnsuma/aws-re-invent-re-cap-2019), Please go through in details Build Cool Stuffs and Send us feedback.
 
+
+<br> 
+
+The event concluded by Thanks note by Dijeesh Padinharethil, Co-Organizer AWS User Group Kochi. He also announced few event plans in 2020.
 
 <br>
 
@@ -96,13 +92,17 @@ Full presentation is available [here](https://speakerdeck.com/debnsuma/aws-re-in
 
 <br> <br>
 
-The event concluded by Thanks note by Dijeesh Padinharethil, Co-Organizer AWS User Group Kochi. He also announced few event plans in 2020.
-
 Here are few upcoming events organized/supported by AWSUGKOCHI
-Innovator's Summit.
-Deep racer Competition 
-AWS DevOps Hackathon
-AWS Community Day 2020
+
+- Innovator's Summit.
+- Deep racer Competition 
+- AWS DevOps Hackathon
+- AWS Community Day 2020
+
+
+Of course, we had a traditional Kerala Style gift for Suman Debnath as a token of thanks from the AWSUGKOCHI Community.
+
+We have also distributed a few gifts to 3 lucky winners and AWS Badges,  stickers to all participants.
 
 
 <br>
@@ -111,10 +111,6 @@ AWS Community Day 2020
 
 <br> <br>
 
-Of course, we had a traditional Kerala Style gift for Suman Debnath as a token of thanks from the AWSUGKOCHI Community.
-
-We have also distributed a few gifts to 3 lucky winners and AWS Badges,  stickers to all participants.
-
 Thanks to 
 
 - [Suman Debnath](https://www.linkedin.com/in/suman-d/) for the wonderful informative session
@@ -122,6 +118,8 @@ Thanks to
 - [Dijeesh Padinharethil](https://www.linkedin.com/in/dijeesh-padinharethil/) for organizing the event
 - [Arun Nair](https://www.linkedin.com/in/arun-nair-a2916449/) for arranging the venue
 - All the attendees for spending your weekend with us. 
+
+<br> <br>
 
 We are looking forward to meeting you all in our upcoming events. [Here](https://photos.app.goo.gl/gYXHoPepVyTB2ky1A) is our photo gallery for this event.
 
