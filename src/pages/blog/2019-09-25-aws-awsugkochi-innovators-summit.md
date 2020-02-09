@@ -23,7 +23,7 @@ tags:
 
 <br> <br>
 
-Our community leaders [Dijeesh Padinharethil](https://www.linkedin.com/in/dijeesh-padinharethil/) and [Praveesh V](https://www.linkedin.com/in/praveeshv/) were helping the Innovators' Summit Team from the very scratch. We are really happy to see that the event was a great success with above 300+ attendees, speakers from AWS, Microsoft, Google, Wordpress communities. Hands-on workshops etc..
+Our community leaders [Dijeesh Padinharethil](https://www.linkedin.com/in/dijeesh-padinharethil/) and [Praveesh V](https://www.linkedin.com/in/praveeshv/) were helping the Innovators' Summit Team from the very scratch. We are really happy to see that the event was a great success with above 300+ attendees, speakers from AWS, Microsoft, Google, Wordpress communities. Hands-on workshops ..
 
 <br> <br>
 
@@ -41,6 +41,8 @@ On behalf of AWS User Group Kochi,
 
 It was nice to see all the communities under one roof. Thanks and Congratulations Amal NS, Ebin Santy & Team for conducting Innovators' Summit 2020. And we are looking forward to upcoming events.
 
+<br> <br>
+
 ![acdkochi2020](/img/awsugkochi_innovators_summit_3.png)
 
 <br> <br>
@@ -50,7 +52,7 @@ Thanks to
 - [Rashmi Nambiar](https://www.linkedin.com/in/rashminambiar/) for all the help, guidance, co-ordinations and gifts.
 - [Dijeesh Padinharethil](https://www.linkedin.com/in/dijeesh-padinharethil/) for organizing the AWSUGKOCHI team
 - [John Solomon](https://www.linkedin.com/in/john-solomon-aws/) and [Prashanth HN](https://www.linkedin.com/in/hnprashanth/) for representing AWSUGKOCHI Team
-- Abhilash Nair, Amrutha Mohan, Praveesh, Rajesh Lukose for all the helps
+- [Abhilash Nair](https://www.linkedin.com/in/hiabhilash/), [Amrutha Mohan](https://www.linkedin.com/in/amrutha-mohan-706a52101), [Praveesh V](https://www.linkedin.com/in/praveeshv/) and [Rajesh Lukose](https://www.linkedin.com/in/rajesh-lukose-009b4384/) for all the helps
 
 
 
